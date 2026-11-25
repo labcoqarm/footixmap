@@ -1,0 +1,8 @@
+.Rproj.user/
+.Rhistory
+.RData
+*.env
+donnees/matchs_geocodes_osm.*
+docs/
+*.zip
+Thumbs.db

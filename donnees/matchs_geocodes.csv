@@ -1,0 +1,1639 @@
+index;categorie;roundNumber;date;homeTeam;awayTeam;location;latitude;longitude;ville
+1;Ligue 1;1;15/08/2025;Stade Rennais FC;Olympique de Marseille;Roazhon Park;48.107566;-1.712654;Rennes
+2;Ligue 1;1;16/08/2025;RC Lens;Olympique Lyonnais;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+3;Ligue 1;1;16/08/2025;AS Monaco;Havre Athletic Club;Stade Louis II;43.727571;7.415458;Monaco
+4;Ligue 1;1;16/08/2025;OGC Nice;Toulouse FC;Allianz Riviera;43.705148;7.192603;Nice
+5;Ligue 1;1;17/08/2025;Stade Brestois 29;LOSC Lille;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+6;Ligue 1;1;17/08/2025;Angers SCO;Paris FC;Stade Raymond Kopa;47.460552;-0.530695;Angers
+7;Ligue 1;1;17/08/2025;AJ Auxerre;FC Lorient;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+8;Ligue 1;1;17/08/2025;FC Metz;RC Strasbourg Alsace;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+9;Ligue 1;1;17/08/2025;FC Nantes;Paris Saint-Germain;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+10;Ligue 1;2;22/08/2025;Paris Saint-Germain;Angers SCO;Parc des Princes;48.841363;2.253069;Paris
+11;Ligue 1;2;23/08/2025;Olympique de Marseille;Paris FC;Stade Vélodrome;43.269835;5.3959117;Marseille
+12;Ligue 1;2;23/08/2025;OGC Nice;AJ Auxerre;Allianz Riviera;43.705148;7.192603;Nice
+13;Ligue 1;2;23/08/2025;Olympique Lyonnais;FC Metz;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+14;Ligue 1;2;24/08/2025;FC Lorient;Stade Rennais FC;Stade du Moustoir;47.748869;-3.369303;Lorient
+15;Ligue 1;2;24/08/2025;Havre Athletic Club;RC Lens;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+16;Ligue 1;2;24/08/2025;RC Strasbourg Alsace;FC Nantes;Stade de la Meinau;48.559948;7.755122;Strasbourg
+17;Ligue 1;2;24/08/2025;Toulouse FC;Stade Brestois 29;Stadium de Toulouse;43.583226;1.434064;Toulouse
+18;Ligue 1;2;24/08/2025;LOSC Lille;AS Monaco;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+19;Ligue 1;3;29/08/2025;RC Lens;Stade Brestois 29;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+20;Ligue 1;3;30/08/2025;FC Lorient;LOSC Lille;Stade du Moustoir;47.748869;-3.369303;Lorient
+21;Ligue 1;3;30/08/2025;FC Nantes;AJ Auxerre;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+22;Ligue 1;3;30/08/2025;Toulouse FC;Paris Saint-Germain;Stadium de Toulouse;43.583226;1.434064;Toulouse
+23;Ligue 1;3;31/08/2025;Angers SCO;Stade Rennais FC;Stade Raymond Kopa;47.460552;-0.530695;Angers
+24;Ligue 1;3;31/08/2025;Havre Athletic Club;OGC Nice;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+25;Ligue 1;3;31/08/2025;AS Monaco;RC Strasbourg Alsace;Stade Louis II;43.727571;7.415458;Monaco
+26;Ligue 1;3;31/08/2025;Paris FC;FC Metz;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+27;Ligue 1;3;31/08/2025;Olympique Lyonnais;Olympique de Marseille;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+28;Ligue 1;4;12/09/2025;Olympique de Marseille;FC Lorient;Stade Vélodrome;43.269835;5.3959117;Marseille
+29;Ligue 1;4;13/09/2025;OGC Nice;FC Nantes;Allianz Riviera;43.705148;7.192603;Nice
+30;Ligue 1;4;13/09/2025;AJ Auxerre;AS Monaco;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+31;Ligue 1;4;14/09/2025;LOSC Lille;Toulouse FC;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+32;Ligue 1;4;14/09/2025;Stade Brestois 29;Paris FC;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+33;Ligue 1;4;14/09/2025;FC Metz;Angers SCO;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+34;Ligue 1;4;14/09/2025;Paris Saint-Germain;RC Lens;Parc des Princes;48.841363;2.253069;Paris
+35;Ligue 1;4;14/09/2025;RC Strasbourg Alsace;Havre Athletic Club;Stade de la Meinau;48.559948;7.755122;Strasbourg
+36;Ligue 1;4;14/09/2025;Stade Rennais FC;Olympique Lyonnais;Roazhon Park;48.107566;-1.712654;Rennes
+37;Ligue 1;5;19/09/2025;Olympique Lyonnais;Angers SCO;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+38;Ligue 1;5;20/09/2025;FC Nantes;Stade Rennais FC;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+39;Ligue 1;5;20/09/2025;Stade Brestois 29;OGC Nice;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+40;Ligue 1;5;20/09/2025;RC Lens;LOSC Lille;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+41;Ligue 1;5;21/09/2025;Paris FC;RC Strasbourg Alsace;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+42;Ligue 1;5;21/09/2025;AJ Auxerre;Toulouse FC;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+43;Ligue 1;5;21/09/2025;Havre Athletic Club;FC Lorient;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+44;Ligue 1;5;21/09/2025;AS Monaco;FC Metz;Stade Louis II;43.727571;7.415458;Monaco
+45;Ligue 1;5;22/09/2025;Olympique de Marseille;Paris Saint-Germain;Stade Vélodrome;43.269835;5.3959117;Marseille
+46;Ligue 1;6;26/09/2025;RC Strasbourg Alsace;Olympique de Marseille;Stade de la Meinau;48.559948;7.755122;Strasbourg
+47;Ligue 1;6;27/09/2025;FC Lorient;AS Monaco;Stade du Moustoir;47.748869;-3.369303;Lorient
+48;Ligue 1;6;27/09/2025;Toulouse FC;FC Nantes;Stadium de Toulouse;43.583226;1.434064;Toulouse
+49;Ligue 1;6;27/09/2025;Paris Saint-Germain;AJ Auxerre;Parc des Princes;48.841363;2.253069;Paris
+50;Ligue 1;6;28/09/2025;OGC Nice;Paris FC;Allianz Riviera;43.705148;7.192603;Nice
+51;Ligue 1;6;28/09/2025;Angers SCO;Stade Brestois 29;Stade Raymond Kopa;47.460552;-0.530695;Angers
+52;Ligue 1;6;28/09/2025;LOSC Lille;Olympique Lyonnais;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+53;Ligue 1;6;28/09/2025;FC Metz;Havre Athletic Club;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+54;Ligue 1;6;28/09/2025;Stade Rennais FC;RC Lens;Roazhon Park;48.107566;-1.712654;Rennes
+55;Ligue 1;7;03/10/2025;Paris FC;FC Lorient;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+56;Ligue 1;7;04/10/2025;FC Metz;Olympique de Marseille;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+57;Ligue 1;7;04/10/2025;Stade Brestois 29;FC Nantes;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+58;Ligue 1;7;04/10/2025;AJ Auxerre;RC Lens;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+59;Ligue 1;7;05/10/2025;Olympique Lyonnais;Toulouse FC;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+60;Ligue 1;7;05/10/2025;Havre Athletic Club;Stade Rennais FC;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+61;Ligue 1;7;05/10/2025;AS Monaco;OGC Nice;Stade Louis II;43.727571;7.415458;Monaco
+62;Ligue 1;7;05/10/2025;RC Strasbourg Alsace;Angers SCO;Stade de la Meinau;48.559948;7.755122;Strasbourg
+63;Ligue 1;7;05/10/2025;LOSC Lille;Paris Saint-Germain;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+64;Ligue 1;8;17/10/2025;Paris Saint-Germain;RC Strasbourg Alsace;Parc des Princes;48.841363;2.253069;Paris
+65;Ligue 1;8;18/10/2025;OGC Nice;Olympique Lyonnais;Allianz Riviera;43.705148;7.192603;Nice
+66;Ligue 1;8;18/10/2025;Angers SCO;AS Monaco;Stade Raymond Kopa;47.460552;-0.530695;Angers
+67;Ligue 1;8;18/10/2025;Olympique de Marseille;Havre Athletic Club;Stade Vélodrome;43.269835;5.3959117;Marseille
+68;Ligue 1;8;19/10/2025;RC Lens;Paris FC;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+69;Ligue 1;8;19/10/2025;FC Lorient;Stade Brestois 29;Stade du Moustoir;47.748869;-3.369303;Lorient
+70;Ligue 1;8;19/10/2025;Stade Rennais FC;AJ Auxerre;Roazhon Park;48.107566;-1.712654;Rennes
+71;Ligue 1;8;19/10/2025;Toulouse FC;FC Metz;Stadium de Toulouse;43.583226;1.434064;Toulouse
+72;Ligue 1;8;19/10/2025;FC Nantes;LOSC Lille;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+73;Ligue 1;9;24/10/2025;Paris FC;FC Nantes;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+74;Ligue 1;9;25/10/2025;Stade Brestois 29;Paris Saint-Germain;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+75;Ligue 1;9;25/10/2025;AS Monaco;Toulouse FC;Stade Louis II;43.727571;7.415458;Monaco
+76;Ligue 1;9;25/10/2025;RC Lens;Olympique de Marseille;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+77;Ligue 1;9;26/10/2025;LOSC Lille;FC Metz;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+78;Ligue 1;9;26/10/2025;Angers SCO;FC Lorient;Stade Raymond Kopa;47.460552;-0.530695;Angers
+79;Ligue 1;9;26/10/2025;AJ Auxerre;Havre Athletic Club;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+80;Ligue 1;9;26/10/2025;Stade Rennais FC;OGC Nice;Roazhon Park;48.107566;-1.712654;Rennes
+81;Ligue 1;9;26/10/2025;Olympique Lyonnais;RC Strasbourg Alsace;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+82;Ligue 1;10;29/10/2025;Havre Athletic Club;Stade Brestois 29;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+83;Ligue 1;10;29/10/2025;FC Lorient;Paris Saint-Germain;Stade du Moustoir;47.748869;-3.369303;Lorient
+84;Ligue 1;10;29/10/2025;FC Metz;RC Lens;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+85;Ligue 1;10;29/10/2025;OGC Nice;LOSC Lille;Allianz Riviera;43.705148;7.192603;Nice
+86;Ligue 1;10;29/10/2025;Olympique de Marseille;Angers SCO;Stade Vélodrome;43.269835;5.3959117;Marseille
+87;Ligue 1;10;29/10/2025;FC Nantes;AS Monaco;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+88;Ligue 1;10;29/10/2025;Paris FC;Olympique Lyonnais;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+89;Ligue 1;10;29/10/2025;RC Strasbourg Alsace;AJ Auxerre;Stade de la Meinau;48.559948;7.755122;Strasbourg
+90;Ligue 1;10;29/10/2025;Toulouse FC;Stade Rennais FC;Stadium de Toulouse;43.583226;1.434064;Toulouse
+91;Ligue 1;11;01/11/2025;Paris Saint-Germain;OGC Nice;Parc des Princes;48.841363;2.253069;Paris
+92;Ligue 1;11;01/11/2025;AS Monaco;Paris FC;Stade Louis II;43.727571;7.415458;Monaco
+93;Ligue 1;11;01/11/2025;AJ Auxerre;Olympique de Marseille;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+94;Ligue 1;11;02/11/2025;Stade Rennais FC;RC Strasbourg Alsace;Roazhon Park;48.107566;-1.712654;Rennes
+95;Ligue 1;11;02/11/2025;RC Lens;FC Lorient;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+96;Ligue 1;11;02/11/2025;LOSC Lille;Angers SCO;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+97;Ligue 1;11;02/11/2025;FC Nantes;FC Metz;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+98;Ligue 1;11;02/11/2025;Toulouse FC;Havre Athletic Club;Stadium de Toulouse;43.583226;1.434064;Toulouse
+99;Ligue 1;11;02/11/2025;Stade Brestois 29;Olympique Lyonnais;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+100;Ligue 1;12;07/11/2025;Paris FC;Stade Rennais FC;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+101;Ligue 1;12;08/11/2025;Olympique de Marseille;Stade Brestois 29;Stade Vélodrome;43.269835;5.3959117;Marseille
+102;Ligue 1;12;08/11/2025;Havre Athletic Club;FC Nantes;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+103;Ligue 1;12;08/11/2025;AS Monaco;RC Lens;Stade Louis II;43.727571;7.415458;Monaco
+104;Ligue 1;12;09/11/2025;FC Lorient;Toulouse FC;Stade du Moustoir;47.748869;-3.369303;Lorient
+105;Ligue 1;12;09/11/2025;Angers SCO;AJ Auxerre;Stade Raymond Kopa;47.460552;-0.530695;Angers
+106;Ligue 1;12;09/11/2025;FC Metz;OGC Nice;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+107;Ligue 1;12;09/11/2025;RC Strasbourg Alsace;LOSC Lille;Stade de la Meinau;48.559948;7.755122;Strasbourg
+108;Ligue 1;12;09/11/2025;Olympique Lyonnais;Paris Saint-Germain;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+109;Ligue 1;13;22/11/2025;AJ Auxerre;Olympique Lyonnais;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+110;Ligue 1;13;22/11/2025;Stade Brestois 29;FC Metz;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+111;Ligue 1;13;22/11/2025;RC Lens;RC Strasbourg Alsace;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+112;Ligue 1;13;22/11/2025;LOSC Lille;Paris FC;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+113;Ligue 1;13;22/11/2025;FC Nantes;FC Lorient;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+114;Ligue 1;13;22/11/2025;OGC Nice;Olympique de Marseille;Allianz Riviera;43.705148;7.192603;Nice
+115;Ligue 1;13;22/11/2025;Paris Saint-Germain;Havre Athletic Club;Parc des Princes;48.841363;2.253069;Paris
+116;Ligue 1;13;22/11/2025;Stade Rennais FC;AS Monaco;Roazhon Park;48.107566;-1.712654;Rennes
+117;Ligue 1;13;22/11/2025;Toulouse FC;Angers SCO;Stadium de Toulouse;43.583226;1.434064;Toulouse
+118;Ligue 1;14;29/11/2025;Angers SCO;RC Lens;Stade Raymond Kopa;47.460552;-0.530695;Angers
+119;Ligue 1;14;29/11/2025;Havre Athletic Club;LOSC Lille;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+120;Ligue 1;14;29/11/2025;FC Lorient;OGC Nice;Stade du Moustoir;47.748869;-3.369303;Lorient
+121;Ligue 1;14;29/11/2025;Olympique Lyonnais;FC Nantes;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+122;Ligue 1;14;29/11/2025;Olympique de Marseille;Toulouse FC;Stade Vélodrome;43.269835;5.3959117;Marseille
+123;Ligue 1;14;29/11/2025;FC Metz;Stade Rennais FC;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+124;Ligue 1;14;29/11/2025;AS Monaco;Paris Saint-Germain;Stade Louis II;43.727571;7.415458;Monaco
+125;Ligue 1;14;29/11/2025;Paris FC;AJ Auxerre;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+126;Ligue 1;14;29/11/2025;RC Strasbourg Alsace;Stade Brestois 29;Stade de la Meinau;48.559948;7.755122;Strasbourg
+127;Ligue 1;15;06/12/2025;AJ Auxerre;FC Metz;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+128;Ligue 1;15;06/12/2025;Stade Brestois 29;AS Monaco;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+129;Ligue 1;15;06/12/2025;LOSC Lille;Olympique de Marseille;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+130;Ligue 1;15;06/12/2025;FC Lorient;Olympique Lyonnais;Stade du Moustoir;47.748869;-3.369303;Lorient
+131;Ligue 1;15;06/12/2025;Paris Saint-Germain;Stade Rennais FC;Parc des Princes;48.841363;2.253069;Paris
+132;Ligue 1;15;06/12/2025;Toulouse FC;RC Strasbourg Alsace;Stadium de Toulouse;43.583226;1.434064;Toulouse
+133;Ligue 1;15;06/12/2025;Havre Athletic Club;Paris FC;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+134;Ligue 1;15;06/12/2025;OGC Nice;Angers SCO;Allianz Riviera;43.705148;7.192603;Nice
+135;Ligue 1;15;06/12/2025;FC Nantes;RC Lens;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+136;Ligue 1;16;13/12/2025;Angers SCO;FC Nantes;Stade Raymond Kopa;47.460552;-0.530695;Angers
+137;Ligue 1;16;13/12/2025;AJ Auxerre;LOSC Lille;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+138;Ligue 1;16;13/12/2025;RC Lens;OGC Nice;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+139;Ligue 1;16;13/12/2025;Olympique Lyonnais;Havre Athletic Club;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+140;Ligue 1;16;13/12/2025;Olympique de Marseille;AS Monaco;Stade Vélodrome;43.269835;5.3959117;Marseille
+141;Ligue 1;16;13/12/2025;FC Metz;Paris Saint-Germain;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+142;Ligue 1;16;13/12/2025;Paris FC;Toulouse FC;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+143;Ligue 1;16;13/12/2025;Stade Rennais FC;Stade Brestois 29;Roazhon Park;48.107566;-1.712654;Rennes
+144;Ligue 1;16;13/12/2025;RC Strasbourg Alsace;FC Lorient;Stade de la Meinau;48.559948;7.755122;Strasbourg
+145;Ligue 1;17;03/01/2026;Stade Brestois 29;AJ Auxerre;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+146;Ligue 1;17;03/01/2026;Havre Athletic Club;Angers SCO;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+147;Ligue 1;17;03/01/2026;LOSC Lille;Stade Rennais FC;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+148;Ligue 1;17;03/01/2026;FC Lorient;FC Metz;Stade du Moustoir;47.748869;-3.369303;Lorient
+149;Ligue 1;17;03/01/2026;Olympique de Marseille;FC Nantes;Stade Vélodrome;43.269835;5.3959117;Marseille
+150;Ligue 1;17;03/01/2026;AS Monaco;Olympique Lyonnais;Stade Louis II;43.727571;7.415458;Monaco
+151;Ligue 1;17;03/01/2026;OGC Nice;RC Strasbourg Alsace;Allianz Riviera;43.705148;7.192603;Nice
+152;Ligue 1;17;03/01/2026;Paris Saint-Germain;Paris FC;Parc des Princes;48.841363;2.253069;Paris
+153;Ligue 1;17;03/01/2026;Toulouse FC;RC Lens;Stadium de Toulouse;43.583226;1.434064;Toulouse
+154;Ligue 1;18;17/01/2026;Angers SCO;Olympique de Marseille;Stade Raymond Kopa;47.460552;-0.530695;Angers
+155;Ligue 1;18;17/01/2026;RC Lens;AJ Auxerre;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+156;Ligue 1;18;17/01/2026;Olympique Lyonnais;Stade Brestois 29;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+157;Ligue 1;18;17/01/2026;AS Monaco;FC Lorient;Stade Louis II;43.727571;7.415458;Monaco
+158;Ligue 1;18;17/01/2026;FC Nantes;Paris FC;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+159;Ligue 1;18;17/01/2026;Paris Saint-Germain;LOSC Lille;Parc des Princes;48.841363;2.253069;Paris
+160;Ligue 1;18;17/01/2026;Stade Rennais FC;Havre Athletic Club;Roazhon Park;48.107566;-1.712654;Rennes
+161;Ligue 1;18;17/01/2026;RC Strasbourg Alsace;FC Metz;Stade de la Meinau;48.559948;7.755122;Strasbourg
+162;Ligue 1;18;17/01/2026;Toulouse FC;OGC Nice;Stadium de Toulouse;43.583226;1.434064;Toulouse
+163;Ligue 1;19;24/01/2026;AJ Auxerre;Paris Saint-Germain;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+164;Ligue 1;19;24/01/2026;Stade Brestois 29;Toulouse FC;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+165;Ligue 1;19;24/01/2026;Havre Athletic Club;AS Monaco;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+166;Ligue 1;19;24/01/2026;LOSC Lille;RC Strasbourg Alsace;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+167;Ligue 1;19;24/01/2026;Olympique de Marseille;RC Lens;Stade Vélodrome;43.269835;5.3959117;Marseille
+168;Ligue 1;19;24/01/2026;FC Metz;Olympique Lyonnais;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+169;Ligue 1;19;24/01/2026;FC Nantes;OGC Nice;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+170;Ligue 1;19;24/01/2026;Paris FC;Angers SCO;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+171;Ligue 1;19;24/01/2026;Stade Rennais FC;FC Lorient;Roazhon Park;48.107566;-1.712654;Rennes
+172;Ligue 1;20;31/01/2026;Angers SCO;FC Metz;Stade Raymond Kopa;47.460552;-0.530695;Angers
+173;Ligue 1;20;31/01/2026;RC Lens;Havre Athletic Club;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+174;Ligue 1;20;31/01/2026;FC Lorient;FC Nantes;Stade du Moustoir;47.748869;-3.369303;Lorient
+175;Ligue 1;20;31/01/2026;Olympique Lyonnais;LOSC Lille;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+176;Ligue 1;20;31/01/2026;AS Monaco;Stade Rennais FC;Stade Louis II;43.727571;7.415458;Monaco
+177;Ligue 1;20;31/01/2026;OGC Nice;Stade Brestois 29;Allianz Riviera;43.705148;7.192603;Nice
+178;Ligue 1;20;31/01/2026;Paris FC;Olympique de Marseille;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+179;Ligue 1;20;31/01/2026;RC Strasbourg Alsace;Paris Saint-Germain;Stade de la Meinau;48.559948;7.755122;Strasbourg
+180;Ligue 1;20;31/01/2026;Toulouse FC;AJ Auxerre;Stadium de Toulouse;43.583226;1.434064;Toulouse
+181;Ligue 1;21;07/02/2026;Angers SCO;Toulouse FC;Stade Raymond Kopa;47.460552;-0.530695;Angers
+182;Ligue 1;21;07/02/2026;AJ Auxerre;Paris FC;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+183;Ligue 1;21;07/02/2026;Stade Brestois 29;FC Lorient;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+184;Ligue 1;21;07/02/2026;Havre Athletic Club;RC Strasbourg Alsace;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+185;Ligue 1;21;07/02/2026;RC Lens;Stade Rennais FC;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+186;Ligue 1;21;07/02/2026;FC Metz;LOSC Lille;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+187;Ligue 1;21;07/02/2026;FC Nantes;Olympique Lyonnais;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+188;Ligue 1;21;07/02/2026;OGC Nice;AS Monaco;Allianz Riviera;43.705148;7.192603;Nice
+189;Ligue 1;21;07/02/2026;Paris Saint-Germain;Olympique de Marseille;Parc des Princes;48.841363;2.253069;Paris
+190;Ligue 1;22;14/02/2026;Havre Athletic Club;Toulouse FC;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+191;Ligue 1;22;14/02/2026;LOSC Lille;Stade Brestois 29;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+192;Ligue 1;22;14/02/2026;FC Lorient;Angers SCO;Stade du Moustoir;47.748869;-3.369303;Lorient
+193;Ligue 1;22;14/02/2026;Olympique Lyonnais;OGC Nice;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+194;Ligue 1;22;14/02/2026;Olympique de Marseille;RC Strasbourg Alsace;Stade Vélodrome;43.269835;5.3959117;Marseille
+195;Ligue 1;22;14/02/2026;FC Metz;AJ Auxerre;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+196;Ligue 1;22;14/02/2026;AS Monaco;FC Nantes;Stade Louis II;43.727571;7.415458;Monaco
+197;Ligue 1;22;14/02/2026;Paris FC;RC Lens;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+198;Ligue 1;22;14/02/2026;Stade Rennais FC;Paris Saint-Germain;Roazhon Park;48.107566;-1.712654;Rennes
+199;Ligue 1;23;21/02/2026;Angers SCO;LOSC Lille;Stade Raymond Kopa;47.460552;-0.530695;Angers
+200;Ligue 1;23;21/02/2026;AJ Auxerre;Stade Rennais FC;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+201;Ligue 1;23;21/02/2026;Stade Brestois 29;Olympique de Marseille;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+202;Ligue 1;23;21/02/2026;RC Lens;AS Monaco;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+203;Ligue 1;23;21/02/2026;FC Nantes;Havre Athletic Club;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+204;Ligue 1;23;21/02/2026;OGC Nice;FC Lorient;Allianz Riviera;43.705148;7.192603;Nice
+205;Ligue 1;23;21/02/2026;Paris Saint-Germain;FC Metz;Parc des Princes;48.841363;2.253069;Paris
+206;Ligue 1;23;21/02/2026;RC Strasbourg Alsace;Olympique Lyonnais;Stade de la Meinau;48.559948;7.755122;Strasbourg
+207;Ligue 1;23;21/02/2026;Toulouse FC;Paris FC;Stadium de Toulouse;43.583226;1.434064;Toulouse
+208;Ligue 1;24;28/02/2026;Havre Athletic Club;Paris Saint-Germain;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+209;Ligue 1;24;28/02/2026;LOSC Lille;FC Nantes;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+210;Ligue 1;24;28/02/2026;FC Lorient;AJ Auxerre;Stade du Moustoir;47.748869;-3.369303;Lorient
+211;Ligue 1;24;28/02/2026;Olympique de Marseille;Olympique Lyonnais;Stade Vélodrome;43.269835;5.3959117;Marseille
+212;Ligue 1;24;28/02/2026;FC Metz;Stade Brestois 29;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+213;Ligue 1;24;28/02/2026;AS Monaco;Angers SCO;Stade Louis II;43.727571;7.415458;Monaco
+214;Ligue 1;24;28/02/2026;Paris FC;OGC Nice;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+215;Ligue 1;24;28/02/2026;Stade Rennais FC;Toulouse FC;Roazhon Park;48.107566;-1.712654;Rennes
+216;Ligue 1;24;28/02/2026;RC Strasbourg Alsace;RC Lens;Stade de la Meinau;48.559948;7.755122;Strasbourg
+217;Ligue 1;25;07/03/2026;AJ Auxerre;RC Strasbourg Alsace;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+218;Ligue 1;25;07/03/2026;Stade Brestois 29;Havre Athletic Club;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+219;Ligue 1;25;07/03/2026;RC Lens;FC Metz;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+220;Ligue 1;25;07/03/2026;LOSC Lille;FC Lorient;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+221;Ligue 1;25;07/03/2026;Olympique Lyonnais;Paris FC;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+222;Ligue 1;25;07/03/2026;FC Nantes;Angers SCO;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+223;Ligue 1;25;07/03/2026;OGC Nice;Stade Rennais FC;Allianz Riviera;43.705148;7.192603;Nice
+224;Ligue 1;25;07/03/2026;Paris Saint-Germain;AS Monaco;Parc des Princes;48.841363;2.253069;Paris
+225;Ligue 1;25;07/03/2026;Toulouse FC;Olympique de Marseille;Stadium de Toulouse;43.583226;1.434064;Toulouse
+226;Ligue 1;26;14/03/2026;Angers SCO;OGC Nice;Stade Raymond Kopa;47.460552;-0.530695;Angers
+227;Ligue 1;26;14/03/2026;Havre Athletic Club;Olympique Lyonnais;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+228;Ligue 1;26;14/03/2026;FC Lorient;RC Lens;Stade du Moustoir;47.748869;-3.369303;Lorient
+229;Ligue 1;26;14/03/2026;Olympique de Marseille;AJ Auxerre;Stade Vélodrome;43.269835;5.3959117;Marseille
+230;Ligue 1;26;14/03/2026;FC Metz;Toulouse FC;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+231;Ligue 1;26;14/03/2026;AS Monaco;Stade Brestois 29;Stade Louis II;43.727571;7.415458;Monaco
+232;Ligue 1;26;14/03/2026;Paris Saint-Germain;FC Nantes;Parc des Princes;48.841363;2.253069;Paris
+233;Ligue 1;26;14/03/2026;Stade Rennais FC;LOSC Lille;Roazhon Park;48.107566;-1.712654;Rennes
+234;Ligue 1;26;14/03/2026;RC Strasbourg Alsace;Paris FC;Stade de la Meinau;48.559948;7.755122;Strasbourg
+235;Ligue 1;27;21/03/2026;AJ Auxerre;Stade Brestois 29;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+236;Ligue 1;27;21/03/2026;RC Lens;Angers SCO;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+237;Ligue 1;27;21/03/2026;Olympique Lyonnais;AS Monaco;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+238;Ligue 1;27;21/03/2026;Olympique de Marseille;LOSC Lille;Stade Vélodrome;43.269835;5.3959117;Marseille
+239;Ligue 1;27;21/03/2026;FC Nantes;RC Strasbourg Alsace;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+240;Ligue 1;27;21/03/2026;OGC Nice;Paris Saint-Germain;Allianz Riviera;43.705148;7.192603;Nice
+241;Ligue 1;27;21/03/2026;Paris FC;Havre Athletic Club;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+242;Ligue 1;27;21/03/2026;Stade Rennais FC;FC Metz;Roazhon Park;48.107566;-1.712654;Rennes
+243;Ligue 1;27;21/03/2026;Toulouse FC;FC Lorient;Stadium de Toulouse;43.583226;1.434064;Toulouse
+244;Ligue 1;28;04/04/2026;Angers SCO;Olympique Lyonnais;Stade Raymond Kopa;47.460552;-0.530695;Angers
+245;Ligue 1;28;04/04/2026;Stade Brestois 29;Stade Rennais FC;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+246;Ligue 1;28;04/04/2026;Havre Athletic Club;AJ Auxerre;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+247;Ligue 1;28;04/04/2026;LOSC Lille;RC Lens;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+248;Ligue 1;28;04/04/2026;FC Lorient;Paris FC;Stade du Moustoir;47.748869;-3.369303;Lorient
+249;Ligue 1;28;04/04/2026;FC Metz;FC Nantes;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+250;Ligue 1;28;04/04/2026;AS Monaco;Olympique de Marseille;Stade Louis II;43.727571;7.415458;Monaco
+251;Ligue 1;28;04/04/2026;Paris Saint-Germain;Toulouse FC;Parc des Princes;48.841363;2.253069;Paris
+252;Ligue 1;28;04/04/2026;RC Strasbourg Alsace;OGC Nice;Stade de la Meinau;48.559948;7.755122;Strasbourg
+253;Ligue 1;29;11/04/2026;AJ Auxerre;FC Nantes;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+254;Ligue 1;29;11/04/2026;Stade Brestois 29;RC Strasbourg Alsace;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+255;Ligue 1;29;11/04/2026;RC Lens;Paris Saint-Germain;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+256;Ligue 1;29;11/04/2026;Olympique Lyonnais;FC Lorient;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+257;Ligue 1;29;11/04/2026;Olympique de Marseille;FC Metz;Stade Vélodrome;43.269835;5.3959117;Marseille
+258;Ligue 1;29;11/04/2026;OGC Nice;Havre Athletic Club;Allianz Riviera;43.705148;7.192603;Nice
+259;Ligue 1;29;11/04/2026;Paris FC;AS Monaco;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+260;Ligue 1;29;11/04/2026;Stade Rennais FC;Angers SCO;Roazhon Park;48.107566;-1.712654;Rennes
+261;Ligue 1;29;11/04/2026;Toulouse FC;LOSC Lille;Stadium de Toulouse;43.583226;1.434064;Toulouse
+262;Ligue 1;30;18/04/2026;Angers SCO;Havre Athletic Club;Stade Raymond Kopa;47.460552;-0.530695;Angers
+263;Ligue 1;30;18/04/2026;RC Lens;Toulouse FC;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+264;Ligue 1;30;18/04/2026;LOSC Lille;OGC Nice;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+265;Ligue 1;30;18/04/2026;FC Lorient;Olympique de Marseille;Stade du Moustoir;47.748869;-3.369303;Lorient
+266;Ligue 1;30;18/04/2026;FC Metz;Paris FC;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+267;Ligue 1;30;18/04/2026;AS Monaco;AJ Auxerre;Stade Louis II;43.727571;7.415458;Monaco
+268;Ligue 1;30;18/04/2026;FC Nantes;Stade Brestois 29;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+269;Ligue 1;30;18/04/2026;Paris Saint-Germain;Olympique Lyonnais;Parc des Princes;48.841363;2.253069;Paris
+270;Ligue 1;30;18/04/2026;RC Strasbourg Alsace;Stade Rennais FC;Stade de la Meinau;48.559948;7.755122;Strasbourg
+271;Ligue 1;31;25/04/2026;Angers SCO;Paris Saint-Germain;Stade Raymond Kopa;47.460552;-0.530695;Angers
+272;Ligue 1;31;25/04/2026;Stade Brestois 29;RC Lens;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+273;Ligue 1;31;25/04/2026;Havre Athletic Club;FC Metz;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+274;Ligue 1;31;25/04/2026;FC Lorient;RC Strasbourg Alsace;Stade du Moustoir;47.748869;-3.369303;Lorient
+275;Ligue 1;31;25/04/2026;Olympique Lyonnais;AJ Auxerre;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+276;Ligue 1;31;25/04/2026;Olympique de Marseille;OGC Nice;Stade Vélodrome;43.269835;5.3959117;Marseille
+277;Ligue 1;31;25/04/2026;Paris FC;LOSC Lille;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+278;Ligue 1;31;25/04/2026;Stade Rennais FC;FC Nantes;Roazhon Park;48.107566;-1.712654;Rennes
+279;Ligue 1;31;25/04/2026;Toulouse FC;AS Monaco;Stadium de Toulouse;43.583226;1.434064;Toulouse
+280;Ligue 1;32;02/05/2026;AJ Auxerre;Angers SCO;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+281;Ligue 1;32;02/05/2026;LOSC Lille;Havre Athletic Club;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+282;Ligue 1;32;02/05/2026;Olympique Lyonnais;Stade Rennais FC;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+283;Ligue 1;32;02/05/2026;FC Metz;AS Monaco;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+284;Ligue 1;32;02/05/2026;FC Nantes;Olympique de Marseille;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+285;Ligue 1;32;02/05/2026;OGC Nice;RC Lens;Allianz Riviera;43.705148;7.192603;Nice
+286;Ligue 1;32;02/05/2026;Paris FC;Stade Brestois 29;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+287;Ligue 1;32;02/05/2026;Paris Saint-Germain;FC Lorient;Parc des Princes;48.841363;2.253069;Paris
+288;Ligue 1;32;02/05/2026;RC Strasbourg Alsace;Toulouse FC;Stade de la Meinau;48.559948;7.755122;Strasbourg
+289;Ligue 1;33;08/05/2026;Angers SCO;RC Strasbourg Alsace;Stade Raymond Kopa;47.460552;-0.530695;Angers
+290;Ligue 1;33;08/05/2026;AJ Auxerre;OGC Nice;Stade de l'Abbé-Deschamps;47.78678475;3.5886237208803844;Auxerre
+291;Ligue 1;33;08/05/2026;Havre Athletic Club;Olympique de Marseille;Stade Océane;49.498751299999995;0.16946374992792365;Le Havre
+292;Ligue 1;33;08/05/2026;RC Lens;FC Nantes;Stade Bollaert-Delelis;50.43281;2.814988;Lens
+293;Ligue 1;33;08/05/2026;FC Metz;FC Lorient;Stade Saint-Symphorien;49.109636;6.159605;Longeville-lès-Metz
+294;Ligue 1;33;08/05/2026;AS Monaco;LOSC Lille;Stade Louis II;43.727571;7.415458;Monaco
+295;Ligue 1;33;08/05/2026;Paris Saint-Germain;Stade Brestois 29;Parc des Princes;48.841363;2.253069;Paris
+296;Ligue 1;33;08/05/2026;Stade Rennais FC;Paris FC;Roazhon Park;48.107566;-1.712654;Rennes
+297;Ligue 1;33;08/05/2026;Toulouse FC;Olympique Lyonnais;Stadium de Toulouse;43.583226;1.434064;Toulouse
+298;Ligue 1;34;15/05/2026;Stade Brestois 29;Angers SCO;Stade Francis-Le Blé;48.40304225;-4.461360468532405;Brest
+299;Ligue 1;34;15/05/2026;LOSC Lille;AJ Auxerre;Stade Pierre-Mauroy;50.611904;3.130508;Villeneuve-d'Ascq
+300;Ligue 1;34;15/05/2026;FC Lorient;Havre Athletic Club;Stade du Moustoir;47.748869;-3.369303;Lorient
+301;Ligue 1;34;15/05/2026;Olympique Lyonnais;RC Lens;Parc Olympique Lyonnais;45.765362;4.982054;Décines-Charpieu
+302;Ligue 1;34;15/05/2026;Olympique de Marseille;Stade Rennais FC;Stade Vélodrome;43.269835;5.3959117;Marseille
+303;Ligue 1;34;15/05/2026;FC Nantes;Toulouse FC;Stade de la Beaujoire;47.256005;-1.524755;Nantes
+304;Ligue 1;34;15/05/2026;OGC Nice;FC Metz;Allianz Riviera;43.705148;7.192603;Nice
+305;Ligue 1;34;15/05/2026;Paris FC;Paris Saint-Germain;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+306;Ligue 1;34;15/05/2026;RC Strasbourg Alsace;AS Monaco;Stade de la Meinau;48.559948;7.755122;Strasbourg
+307;Ligue 2;1;08/08/2025;Stade de Reims;Stade Lavallois MFC;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+308;Ligue 2;1;08/08/2025;Le Mans FC;Amiens SC;MMArena;47.959165;0.223109;Le Mans
+309;Ligue 2;1;08/08/2025;AS Saint-Etienne;AC Ajaccio;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+310;Ligue 2;1;08/08/2025;SC Bastia;USL Dunkerque;Stade Armand-Cesari;42.651485;9.442719;Furiani
+311;Ligue 2;1;08/08/2025;Clermont Foot 63;ESTAC Troyes;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+312;Ligue 2;1;08/08/2025;FC Annecy;Pau FC;Parc des Sports;45.916893;6.119222;Annecy
+313;Ligue 2;1;08/08/2025;AS Nancy Lorraine;Rodez Aveyron Football;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+314;Ligue 2;1;08/08/2025;Red Star FC;Montpellier Hérault SC;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+315;Ligue 2;1;08/08/2025;Grenoble Foot 38;En Avant Guingamp;Stade des Alpes;45.187395;5.740243;Grenoble
+316;Ligue 2;2;15/08/2025;Stade de Reims;Le Mans FC;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+317;Ligue 2;2;15/08/2025;AS Saint-Etienne;Stade Lavallois MFC;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+318;Ligue 2;2;15/08/2025;SC Bastia;Amiens SC;Stade Armand-Cesari;42.651485;9.442719;Furiani
+319;Ligue 2;2;15/08/2025;Clermont Foot 63;AC Ajaccio;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+320;Ligue 2;2;15/08/2025;FC Annecy;USL Dunkerque;Parc des Sports;45.916893;6.119222;Annecy
+321;Ligue 2;2;15/08/2025;AS Nancy Lorraine;ESTAC Troyes;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+322;Ligue 2;2;15/08/2025;Red Star FC;Pau FC;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+323;Ligue 2;2;15/08/2025;Grenoble Foot 38;Rodez Aveyron Football;Stade des Alpes;45.187395;5.740243;Grenoble
+324;Ligue 2;2;15/08/2025;En Avant Guingamp;Montpellier Hérault SC;Stade du Roudourou;48.56602;-3.164459;Guingamp
+325;Ligue 2;3;22/08/2025;Stade de Reims;AS Saint-Etienne;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+326;Ligue 2;3;22/08/2025;SC Bastia;Le Mans FC;Stade Armand-Cesari;42.651485;9.442719;Furiani
+327;Ligue 2;3;22/08/2025;Clermont Foot 63;Stade Lavallois MFC;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+328;Ligue 2;3;22/08/2025;FC Annecy;Amiens SC;Parc des Sports;45.916893;6.119222;Annecy
+329;Ligue 2;3;22/08/2025;AS Nancy Lorraine;AC Ajaccio;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+330;Ligue 2;3;22/08/2025;Red Star FC;USL Dunkerque;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+331;Ligue 2;3;22/08/2025;Grenoble Foot 38;ESTAC Troyes;Stade des Alpes;45.187395;5.740243;Grenoble
+332;Ligue 2;3;22/08/2025;En Avant Guingamp;Pau FC;Stade du Roudourou;48.56602;-3.164459;Guingamp
+333;Ligue 2;3;22/08/2025;Montpellier Hérault SC;Rodez Aveyron Football;Stade de la Mosson;43.622022;3.81209;Montpellier
+334;Ligue 2;4;29/08/2025;Stade de Reims;SC Bastia;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+335;Ligue 2;4;29/08/2025;Clermont Foot 63;AS Saint-Etienne;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+336;Ligue 2;4;29/08/2025;FC Annecy;Le Mans FC;Parc des Sports;45.916893;6.119222;Annecy
+337;Ligue 2;4;29/08/2025;AS Nancy Lorraine;Stade Lavallois MFC;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+338;Ligue 2;4;29/08/2025;Red Star FC;Amiens SC;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+339;Ligue 2;4;29/08/2025;Grenoble Foot 38;AC Ajaccio;Stade des Alpes;45.187395;5.740243;Grenoble
+340;Ligue 2;4;29/08/2025;En Avant Guingamp;USL Dunkerque;Stade du Roudourou;48.56602;-3.164459;Guingamp
+341;Ligue 2;4;29/08/2025;Montpellier Hérault SC;ESTAC Troyes;Stade de la Mosson;43.622022;3.81209;Montpellier
+342;Ligue 2;4;29/08/2025;Rodez Aveyron Football;Pau FC;Stade Paul-Lignon;44.351606;2.563744;Rodez
+343;Ligue 2;5;12/09/2025;Stade de Reims;Clermont Foot 63;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+344;Ligue 2;5;12/09/2025;FC Annecy;SC Bastia;Parc des Sports;45.916893;6.119222;Annecy
+345;Ligue 2;5;12/09/2025;AS Nancy Lorraine;AS Saint-Etienne;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+346;Ligue 2;5;12/09/2025;Red Star FC;Le Mans FC;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+347;Ligue 2;5;12/09/2025;Grenoble Foot 38;Stade Lavallois MFC;Stade des Alpes;45.187395;5.740243;Grenoble
+348;Ligue 2;5;12/09/2025;En Avant Guingamp;Amiens SC;Stade du Roudourou;48.56602;-3.164459;Guingamp
+349;Ligue 2;5;12/09/2025;Montpellier Hérault SC;AC Ajaccio;Stade de la Mosson;43.622022;3.81209;Montpellier
+350;Ligue 2;5;12/09/2025;Rodez Aveyron Football;USL Dunkerque;Stade Paul-Lignon;44.351606;2.563744;Rodez
+351;Ligue 2;5;12/09/2025;Pau FC;ESTAC Troyes;Nouste Camp;43.307646;-0.32518;Bizanos
+352;Ligue 2;6;19/09/2025;Stade de Reims;FC Annecy;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+353;Ligue 2;6;19/09/2025;AS Nancy Lorraine;Clermont Foot 63;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+354;Ligue 2;6;19/09/2025;Red Star FC;SC Bastia;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+355;Ligue 2;6;19/09/2025;Grenoble Foot 38;AS Saint-Etienne;Stade des Alpes;45.187395;5.740243;Grenoble
+356;Ligue 2;6;19/09/2025;En Avant Guingamp;Le Mans FC;Stade du Roudourou;48.56602;-3.164459;Guingamp
+357;Ligue 2;6;19/09/2025;Montpellier Hérault SC;Stade Lavallois MFC;Stade de la Mosson;43.622022;3.81209;Montpellier
+358;Ligue 2;6;19/09/2025;Rodez Aveyron Football;Amiens SC;Stade Paul-Lignon;44.351606;2.563744;Rodez
+359;Ligue 2;6;19/09/2025;Pau FC;AC Ajaccio;Nouste Camp;43.307646;-0.32518;Bizanos
+360;Ligue 2;6;19/09/2025;ESTAC Troyes;USL Dunkerque;Stade de l'Aube;48.307517;4.098517;Troyes
+361;Ligue 2;7;23/09/2025;Stade de Reims;AS Nancy Lorraine;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+362;Ligue 2;7;23/09/2025;Red Star FC;FC Annecy;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+363;Ligue 2;7;23/09/2025;Grenoble Foot 38;Clermont Foot 63;Stade des Alpes;45.187395;5.740243;Grenoble
+364;Ligue 2;7;23/09/2025;En Avant Guingamp;SC Bastia;Stade du Roudourou;48.56602;-3.164459;Guingamp
+365;Ligue 2;7;23/09/2025;Montpellier Hérault SC;AS Saint-Etienne;Stade de la Mosson;43.622022;3.81209;Montpellier
+366;Ligue 2;7;23/09/2025;Rodez Aveyron Football;Le Mans FC;Stade Paul-Lignon;44.351606;2.563744;Rodez
+367;Ligue 2;7;23/09/2025;Pau FC;Stade Lavallois MFC;Nouste Camp;43.307646;-0.32518;Bizanos
+368;Ligue 2;7;23/09/2025;ESTAC Troyes;Amiens SC;Stade de l'Aube;48.307517;4.098517;Troyes
+369;Ligue 2;7;23/09/2025;USL Dunkerque;AC Ajaccio;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+370;Ligue 2;8;26/09/2025;Stade de Reims;Red Star FC;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+371;Ligue 2;8;26/09/2025;Grenoble Foot 38;AS Nancy Lorraine;Stade des Alpes;45.187395;5.740243;Grenoble
+372;Ligue 2;8;26/09/2025;En Avant Guingamp;FC Annecy;Stade du Roudourou;48.56602;-3.164459;Guingamp
+373;Ligue 2;8;26/09/2025;Montpellier Hérault SC;Clermont Foot 63;Stade de la Mosson;43.622022;3.81209;Montpellier
+374;Ligue 2;8;26/09/2025;Rodez Aveyron Football;SC Bastia;Stade Paul-Lignon;44.351606;2.563744;Rodez
+375;Ligue 2;8;26/09/2025;Pau FC;AS Saint-Etienne;Nouste Camp;43.307646;-0.32518;Bizanos
+376;Ligue 2;8;26/09/2025;ESTAC Troyes;Le Mans FC;Stade de l'Aube;48.307517;4.098517;Troyes
+377;Ligue 2;8;26/09/2025;USL Dunkerque;Stade Lavallois MFC;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+378;Ligue 2;8;26/09/2025;AC Ajaccio;Amiens SC;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+379;Ligue 2;9;03/10/2025;Stade de Reims;Grenoble Foot 38;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+380;Ligue 2;9;03/10/2025;En Avant Guingamp;Red Star FC;Stade du Roudourou;48.56602;-3.164459;Guingamp
+381;Ligue 2;9;03/10/2025;Montpellier Hérault SC;AS Nancy Lorraine;Stade de la Mosson;43.622022;3.81209;Montpellier
+382;Ligue 2;9;03/10/2025;Rodez Aveyron Football;FC Annecy;Stade Paul-Lignon;44.351606;2.563744;Rodez
+383;Ligue 2;9;03/10/2025;Pau FC;Clermont Foot 63;Nouste Camp;43.307646;-0.32518;Bizanos
+384;Ligue 2;9;03/10/2025;ESTAC Troyes;SC Bastia;Stade de l'Aube;48.307517;4.098517;Troyes
+385;Ligue 2;9;03/10/2025;USL Dunkerque;AS Saint-Etienne;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+386;Ligue 2;9;03/10/2025;AC Ajaccio;Le Mans FC;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+387;Ligue 2;9;03/10/2025;Amiens SC;Stade Lavallois MFC;Stade de la Licorne;49.893992;2.263474;Amiens
+388;Ligue 2;10;17/10/2025;Stade de Reims;En Avant Guingamp;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+389;Ligue 2;10;17/10/2025;Montpellier Hérault SC;Grenoble Foot 38;Stade de la Mosson;43.622022;3.81209;Montpellier
+390;Ligue 2;10;17/10/2025;Rodez Aveyron Football;Red Star FC;Stade Paul-Lignon;44.351606;2.563744;Rodez
+391;Ligue 2;10;17/10/2025;Pau FC;AS Nancy Lorraine;Nouste Camp;43.307646;-0.32518;Bizanos
+392;Ligue 2;10;17/10/2025;ESTAC Troyes;FC Annecy;Stade de l'Aube;48.307517;4.098517;Troyes
+393;Ligue 2;10;17/10/2025;USL Dunkerque;Clermont Foot 63;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+394;Ligue 2;10;17/10/2025;AC Ajaccio;SC Bastia;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+395;Ligue 2;10;17/10/2025;Amiens SC;AS Saint-Etienne;Stade de la Licorne;49.893992;2.263474;Amiens
+396;Ligue 2;10;17/10/2025;Stade Lavallois MFC;Le Mans FC;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+397;Ligue 2;11;24/10/2025;Stade de Reims;Montpellier Hérault SC;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+398;Ligue 2;11;24/10/2025;Rodez Aveyron Football;En Avant Guingamp;Stade Paul-Lignon;44.351606;2.563744;Rodez
+399;Ligue 2;11;24/10/2025;Pau FC;Grenoble Foot 38;Nouste Camp;43.307646;-0.32518;Bizanos
+400;Ligue 2;11;24/10/2025;ESTAC Troyes;Red Star FC;Stade de l'Aube;48.307517;4.098517;Troyes
+401;Ligue 2;11;24/10/2025;USL Dunkerque;AS Nancy Lorraine;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+402;Ligue 2;11;24/10/2025;AC Ajaccio;FC Annecy;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+403;Ligue 2;11;24/10/2025;Amiens SC;Clermont Foot 63;Stade de la Licorne;49.893992;2.263474;Amiens
+404;Ligue 2;11;24/10/2025;Stade Lavallois MFC;SC Bastia;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+405;Ligue 2;11;24/10/2025;Le Mans FC;AS Saint-Etienne;MMArena;47.959165;0.223109;Le Mans
+406;Ligue 2;12;28/10/2025;Stade de Reims;Rodez Aveyron Football;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+407;Ligue 2;12;28/10/2025;Pau FC;Montpellier Hérault SC;Nouste Camp;43.307646;-0.32518;Bizanos
+408;Ligue 2;12;28/10/2025;ESTAC Troyes;En Avant Guingamp;Stade de l'Aube;48.307517;4.098517;Troyes
+409;Ligue 2;12;28/10/2025;USL Dunkerque;Grenoble Foot 38;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+410;Ligue 2;12;28/10/2025;AC Ajaccio;Red Star FC;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+411;Ligue 2;12;28/10/2025;Amiens SC;AS Nancy Lorraine;Stade de la Licorne;49.893992;2.263474;Amiens
+412;Ligue 2;12;28/10/2025;Stade Lavallois MFC;FC Annecy;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+413;Ligue 2;12;28/10/2025;Le Mans FC;Clermont Foot 63;MMArena;47.959165;0.223109;Le Mans
+414;Ligue 2;12;28/10/2025;AS Saint-Etienne;SC Bastia;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+415;Ligue 2;13;31/10/2025;Stade de Reims;Pau FC;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+416;Ligue 2;13;31/10/2025;ESTAC Troyes;Rodez Aveyron Football;Stade de l'Aube;48.307517;4.098517;Troyes
+417;Ligue 2;13;31/10/2025;USL Dunkerque;Montpellier Hérault SC;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+418;Ligue 2;13;31/10/2025;AC Ajaccio;En Avant Guingamp;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+419;Ligue 2;13;31/10/2025;Amiens SC;Grenoble Foot 38;Stade de la Licorne;49.893992;2.263474;Amiens
+420;Ligue 2;13;31/10/2025;Stade Lavallois MFC;Red Star FC;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+421;Ligue 2;13;31/10/2025;Le Mans FC;AS Nancy Lorraine;MMArena;47.959165;0.223109;Le Mans
+422;Ligue 2;13;31/10/2025;AS Saint-Etienne;FC Annecy;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+423;Ligue 2;13;31/10/2025;SC Bastia;Clermont Foot 63;Stade Armand-Cesari;42.651485;9.442719;Furiani
+424;Ligue 2;14;07/11/2025;Stade de Reims;ESTAC Troyes;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+425;Ligue 2;14;07/11/2025;USL Dunkerque;Pau FC;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+426;Ligue 2;14;07/11/2025;AC Ajaccio;Rodez Aveyron Football;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+427;Ligue 2;14;07/11/2025;Amiens SC;Montpellier Hérault SC;Stade de la Licorne;49.893992;2.263474;Amiens
+428;Ligue 2;14;07/11/2025;Stade Lavallois MFC;En Avant Guingamp;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+429;Ligue 2;14;07/11/2025;Le Mans FC;Grenoble Foot 38;MMArena;47.959165;0.223109;Le Mans
+430;Ligue 2;14;07/11/2025;AS Saint-Etienne;Red Star FC;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+431;Ligue 2;14;07/11/2025;SC Bastia;AS Nancy Lorraine;Stade Armand-Cesari;42.651485;9.442719;Furiani
+432;Ligue 2;14;07/11/2025;Clermont Foot 63;FC Annecy;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+433;Ligue 2;15;21/11/2025;Stade de Reims;USL Dunkerque;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+434;Ligue 2;15;21/11/2025;AC Ajaccio;ESTAC Troyes;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+435;Ligue 2;15;21/11/2025;Amiens SC;Pau FC;Stade de la Licorne;49.893992;2.263474;Amiens
+436;Ligue 2;15;21/11/2025;Stade Lavallois MFC;Rodez Aveyron Football;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+437;Ligue 2;15;21/11/2025;Le Mans FC;Montpellier Hérault SC;MMArena;47.959165;0.223109;Le Mans
+438;Ligue 2;15;21/11/2025;AS Saint-Etienne;En Avant Guingamp;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+439;Ligue 2;15;21/11/2025;SC Bastia;Grenoble Foot 38;Stade Armand-Cesari;42.651485;9.442719;Furiani
+440;Ligue 2;15;21/11/2025;Clermont Foot 63;Red Star FC;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+441;Ligue 2;15;21/11/2025;FC Annecy;AS Nancy Lorraine;Parc des Sports;45.916893;6.119222;Annecy
+442;Ligue 2;16;05/12/2025;Stade de Reims;AC Ajaccio;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+443;Ligue 2;16;05/12/2025;Amiens SC;USL Dunkerque;Stade de la Licorne;49.893992;2.263474;Amiens
+444;Ligue 2;16;05/12/2025;Stade Lavallois MFC;ESTAC Troyes;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+445;Ligue 2;16;05/12/2025;Le Mans FC;Pau FC;MMArena;47.959165;0.223109;Le Mans
+446;Ligue 2;16;05/12/2025;AS Saint-Etienne;Rodez Aveyron Football;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+447;Ligue 2;16;05/12/2025;SC Bastia;Montpellier Hérault SC;Stade Armand-Cesari;42.651485;9.442719;Furiani
+448;Ligue 2;16;05/12/2025;Clermont Foot 63;En Avant Guingamp;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+449;Ligue 2;16;05/12/2025;FC Annecy;Grenoble Foot 38;Parc des Sports;45.916893;6.119222;Annecy
+450;Ligue 2;16;05/12/2025;AS Nancy Lorraine;Red Star FC;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+451;Ligue 2;17;12/12/2025;Stade de Reims;Amiens SC;Stade Auguste-Delaune II;49.2470758;4.0247869;Reims
+452;Ligue 2;17;12/12/2025;Stade Lavallois MFC;AC Ajaccio;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+453;Ligue 2;17;12/12/2025;Le Mans FC;USL Dunkerque;MMArena;47.959165;0.223109;Le Mans
+454;Ligue 2;17;12/12/2025;AS Saint-Etienne;ESTAC Troyes;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+455;Ligue 2;17;12/12/2025;SC Bastia;Pau FC;Stade Armand-Cesari;42.651485;9.442719;Furiani
+456;Ligue 2;17;12/12/2025;Clermont Foot 63;Rodez Aveyron Football;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+457;Ligue 2;17;12/12/2025;FC Annecy;Montpellier Hérault SC;Parc des Sports;45.916893;6.119222;Annecy
+458;Ligue 2;17;12/12/2025;AS Nancy Lorraine;En Avant Guingamp;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+459;Ligue 2;17;12/12/2025;Red Star FC;Grenoble Foot 38;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+460;Ligue 2;18;02/01/2026;Stade Lavallois MFC;Stade de Reims;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+461;Ligue 2;18;02/01/2026;Amiens SC;Le Mans FC;Stade de la Licorne;49.893992;2.263474;Amiens
+462;Ligue 2;18;02/01/2026;AC Ajaccio;AS Saint-Etienne;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+463;Ligue 2;18;02/01/2026;USL Dunkerque;SC Bastia;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+464;Ligue 2;18;02/01/2026;ESTAC Troyes;Clermont Foot 63;Stade de l'Aube;48.307517;4.098517;Troyes
+465;Ligue 2;18;02/01/2026;Pau FC;FC Annecy;Nouste Camp;43.307646;-0.32518;Bizanos
+466;Ligue 2;18;02/01/2026;Rodez Aveyron Football;AS Nancy Lorraine;Stade Paul-Lignon;44.351606;2.563744;Rodez
+467;Ligue 2;18;02/01/2026;Montpellier Hérault SC;Red Star FC;Stade de la Mosson;43.622022;3.81209;Montpellier
+468;Ligue 2;18;02/01/2026;En Avant Guingamp;Grenoble Foot 38;Stade du Roudourou;48.56602;-3.164459;Guingamp
+469;Ligue 2;19;16/01/2026;Le Mans FC;Stade de Reims;MMArena;47.959165;0.223109;Le Mans
+470;Ligue 2;19;16/01/2026;Stade Lavallois MFC;AS Saint-Etienne;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+471;Ligue 2;19;16/01/2026;Amiens SC;SC Bastia;Stade de la Licorne;49.893992;2.263474;Amiens
+472;Ligue 2;19;16/01/2026;AC Ajaccio;Clermont Foot 63;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+473;Ligue 2;19;16/01/2026;USL Dunkerque;FC Annecy;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+474;Ligue 2;19;16/01/2026;ESTAC Troyes;AS Nancy Lorraine;Stade de l'Aube;48.307517;4.098517;Troyes
+475;Ligue 2;19;16/01/2026;Pau FC;Red Star FC;Nouste Camp;43.307646;-0.32518;Bizanos
+476;Ligue 2;19;16/01/2026;Rodez Aveyron Football;Grenoble Foot 38;Stade Paul-Lignon;44.351606;2.563744;Rodez
+477;Ligue 2;19;16/01/2026;Montpellier Hérault SC;En Avant Guingamp;Stade de la Mosson;43.622022;3.81209;Montpellier
+478;Ligue 2;20;23/01/2026;AS Saint-Etienne;Stade de Reims;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+479;Ligue 2;20;23/01/2026;Le Mans FC;SC Bastia;MMArena;47.959165;0.223109;Le Mans
+480;Ligue 2;20;23/01/2026;Stade Lavallois MFC;Clermont Foot 63;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+481;Ligue 2;20;23/01/2026;Amiens SC;FC Annecy;Stade de la Licorne;49.893992;2.263474;Amiens
+482;Ligue 2;20;23/01/2026;AC Ajaccio;AS Nancy Lorraine;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+483;Ligue 2;20;23/01/2026;USL Dunkerque;Red Star FC;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+484;Ligue 2;20;23/01/2026;ESTAC Troyes;Grenoble Foot 38;Stade de l'Aube;48.307517;4.098517;Troyes
+485;Ligue 2;20;23/01/2026;Pau FC;En Avant Guingamp;Nouste Camp;43.307646;-0.32518;Bizanos
+486;Ligue 2;20;23/01/2026;Rodez Aveyron Football;Montpellier Hérault SC;Stade Paul-Lignon;44.351606;2.563744;Rodez
+487;Ligue 2;21;30/01/2026;SC Bastia;Stade de Reims;Stade Armand-Cesari;42.651485;9.442719;Furiani
+488;Ligue 2;21;30/01/2026;AS Saint-Etienne;Clermont Foot 63;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+489;Ligue 2;21;30/01/2026;Le Mans FC;FC Annecy;MMArena;47.959165;0.223109;Le Mans
+490;Ligue 2;21;30/01/2026;Stade Lavallois MFC;AS Nancy Lorraine;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+491;Ligue 2;21;30/01/2026;Amiens SC;Red Star FC;Stade de la Licorne;49.893992;2.263474;Amiens
+492;Ligue 2;21;30/01/2026;AC Ajaccio;Grenoble Foot 38;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+493;Ligue 2;21;30/01/2026;USL Dunkerque;En Avant Guingamp;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+494;Ligue 2;21;30/01/2026;ESTAC Troyes;Montpellier Hérault SC;Stade de l'Aube;48.307517;4.098517;Troyes
+495;Ligue 2;21;30/01/2026;Pau FC;Rodez Aveyron Football;Nouste Camp;43.307646;-0.32518;Bizanos
+496;Ligue 2;22;06/02/2026;Clermont Foot 63;Stade de Reims;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+497;Ligue 2;22;06/02/2026;SC Bastia;FC Annecy;Stade Armand-Cesari;42.651485;9.442719;Furiani
+498;Ligue 2;22;06/02/2026;AS Saint-Etienne;AS Nancy Lorraine;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+499;Ligue 2;22;06/02/2026;Le Mans FC;Red Star FC;MMArena;47.959165;0.223109;Le Mans
+500;Ligue 2;22;06/02/2026;Stade Lavallois MFC;Grenoble Foot 38;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+501;Ligue 2;22;06/02/2026;Amiens SC;En Avant Guingamp;Stade de la Licorne;49.893992;2.263474;Amiens
+502;Ligue 2;22;06/02/2026;AC Ajaccio;Montpellier Hérault SC;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+503;Ligue 2;22;06/02/2026;USL Dunkerque;Rodez Aveyron Football;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+504;Ligue 2;22;06/02/2026;ESTAC Troyes;Pau FC;Stade de l'Aube;48.307517;4.098517;Troyes
+505;Ligue 2;23;13/02/2026;FC Annecy;Stade de Reims;Parc des Sports;45.916893;6.119222;Annecy
+506;Ligue 2;23;13/02/2026;Clermont Foot 63;AS Nancy Lorraine;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+507;Ligue 2;23;13/02/2026;SC Bastia;Red Star FC;Stade Armand-Cesari;42.651485;9.442719;Furiani
+508;Ligue 2;23;13/02/2026;AS Saint-Etienne;Grenoble Foot 38;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+509;Ligue 2;23;13/02/2026;Le Mans FC;En Avant Guingamp;MMArena;47.959165;0.223109;Le Mans
+510;Ligue 2;23;13/02/2026;Stade Lavallois MFC;Montpellier Hérault SC;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+511;Ligue 2;23;13/02/2026;Amiens SC;Rodez Aveyron Football;Stade de la Licorne;49.893992;2.263474;Amiens
+512;Ligue 2;23;13/02/2026;AC Ajaccio;Pau FC;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+513;Ligue 2;23;13/02/2026;USL Dunkerque;ESTAC Troyes;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+514;Ligue 2;24;20/02/2026;AS Nancy Lorraine;Stade de Reims;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+515;Ligue 2;24;20/02/2026;FC Annecy;Red Star FC;Parc des Sports;45.916893;6.119222;Annecy
+516;Ligue 2;24;20/02/2026;Clermont Foot 63;Grenoble Foot 38;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+517;Ligue 2;24;20/02/2026;SC Bastia;En Avant Guingamp;Stade Armand-Cesari;42.651485;9.442719;Furiani
+518;Ligue 2;24;20/02/2026;AS Saint-Etienne;Montpellier Hérault SC;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+519;Ligue 2;24;20/02/2026;Le Mans FC;Rodez Aveyron Football;MMArena;47.959165;0.223109;Le Mans
+520;Ligue 2;24;20/02/2026;Stade Lavallois MFC;Pau FC;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+521;Ligue 2;24;20/02/2026;Amiens SC;ESTAC Troyes;Stade de la Licorne;49.893992;2.263474;Amiens
+522;Ligue 2;24;20/02/2026;AC Ajaccio;USL Dunkerque;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+523;Ligue 2;25;27/02/2026;Red Star FC;Stade de Reims;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+524;Ligue 2;25;27/02/2026;AS Nancy Lorraine;Grenoble Foot 38;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+525;Ligue 2;25;27/02/2026;FC Annecy;En Avant Guingamp;Parc des Sports;45.916893;6.119222;Annecy
+526;Ligue 2;25;27/02/2026;Clermont Foot 63;Montpellier Hérault SC;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+527;Ligue 2;25;27/02/2026;SC Bastia;Rodez Aveyron Football;Stade Armand-Cesari;42.651485;9.442719;Furiani
+528;Ligue 2;25;27/02/2026;AS Saint-Etienne;Pau FC;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+529;Ligue 2;25;27/02/2026;Le Mans FC;ESTAC Troyes;MMArena;47.959165;0.223109;Le Mans
+530;Ligue 2;25;27/02/2026;Stade Lavallois MFC;USL Dunkerque;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+531;Ligue 2;25;27/02/2026;Amiens SC;AC Ajaccio;Stade de la Licorne;49.893992;2.263474;Amiens
+532;Ligue 2;26;06/03/2026;Grenoble Foot 38;Stade de Reims;Stade des Alpes;45.187395;5.740243;Grenoble
+533;Ligue 2;26;06/03/2026;Red Star FC;En Avant Guingamp;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+534;Ligue 2;26;06/03/2026;AS Nancy Lorraine;Montpellier Hérault SC;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+535;Ligue 2;26;06/03/2026;FC Annecy;Rodez Aveyron Football;Parc des Sports;45.916893;6.119222;Annecy
+536;Ligue 2;26;06/03/2026;Clermont Foot 63;Pau FC;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+537;Ligue 2;26;06/03/2026;SC Bastia;ESTAC Troyes;Stade Armand-Cesari;42.651485;9.442719;Furiani
+538;Ligue 2;26;06/03/2026;AS Saint-Etienne;USL Dunkerque;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+539;Ligue 2;26;06/03/2026;Le Mans FC;AC Ajaccio;MMArena;47.959165;0.223109;Le Mans
+540;Ligue 2;26;06/03/2026;Stade Lavallois MFC;Amiens SC;Stade Francis-Le Basser;48.082227;-0.754761;Laval
+541;Ligue 2;27;13/03/2026;En Avant Guingamp;Stade de Reims;Stade du Roudourou;48.56602;-3.164459;Guingamp
+542;Ligue 2;27;13/03/2026;Grenoble Foot 38;Montpellier Hérault SC;Stade des Alpes;45.187395;5.740243;Grenoble
+543;Ligue 2;27;13/03/2026;Red Star FC;Rodez Aveyron Football;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+544;Ligue 2;27;13/03/2026;AS Nancy Lorraine;Pau FC;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+545;Ligue 2;27;13/03/2026;FC Annecy;ESTAC Troyes;Parc des Sports;45.916893;6.119222;Annecy
+546;Ligue 2;27;13/03/2026;Clermont Foot 63;USL Dunkerque;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+547;Ligue 2;27;13/03/2026;SC Bastia;AC Ajaccio;Stade Armand-Cesari;42.651485;9.442719;Furiani
+548;Ligue 2;27;13/03/2026;AS Saint-Etienne;Amiens SC;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+549;Ligue 2;27;13/03/2026;Le Mans FC;Stade Lavallois MFC;MMArena;47.959165;0.223109;Le Mans
+550;Ligue 2;28;20/03/2026;Montpellier Hérault SC;Stade de Reims;Stade de la Mosson;43.622022;3.81209;Montpellier
+551;Ligue 2;28;20/03/2026;En Avant Guingamp;Rodez Aveyron Football;Stade du Roudourou;48.56602;-3.164459;Guingamp
+552;Ligue 2;28;20/03/2026;Grenoble Foot 38;Pau FC;Stade des Alpes;45.187395;5.740243;Grenoble
+553;Ligue 2;28;20/03/2026;Red Star FC;ESTAC Troyes;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+554;Ligue 2;28;20/03/2026;AS Nancy Lorraine;USL Dunkerque;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+555;Ligue 2;28;20/03/2026;FC Annecy;AC Ajaccio;Parc des Sports;45.916893;6.119222;Annecy
+556;Ligue 2;28;20/03/2026;Clermont Foot 63;Amiens SC;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+557;Ligue 2;28;20/03/2026;SC Bastia;Stade Lavallois MFC;Stade Armand-Cesari;42.651485;9.442719;Furiani
+558;Ligue 2;28;20/03/2026;AS Saint-Etienne;Le Mans FC;Stade Geoffroy-Guichard;45.460757;4.390093;Saint-Étienne
+559;Ligue 2;29;03/04/2026;Rodez Aveyron Football;Stade de Reims;Stade Paul-Lignon;44.351606;2.563744;Rodez
+560;Ligue 2;29;03/04/2026;Montpellier Hérault SC;Pau FC;Stade de la Mosson;43.622022;3.81209;Montpellier
+561;Ligue 2;29;03/04/2026;En Avant Guingamp;ESTAC Troyes;Stade du Roudourou;48.56602;-3.164459;Guingamp
+562;Ligue 2;29;03/04/2026;Grenoble Foot 38;USL Dunkerque;Stade des Alpes;45.187395;5.740243;Grenoble
+563;Ligue 2;29;03/04/2026;Red Star FC;AC Ajaccio;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+564;Ligue 2;29;03/04/2026;AS Nancy Lorraine;Amiens SC;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+565;Ligue 2;29;03/04/2026;FC Annecy;Stade Lavallois MFC;Parc des Sports;45.916893;6.119222;Annecy
+566;Ligue 2;29;03/04/2026;Clermont Foot 63;Le Mans FC;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+567;Ligue 2;29;03/04/2026;SC Bastia;AS Saint-Etienne;Stade Armand-Cesari;42.651485;9.442719;Furiani
+568;Ligue 2;30;10/04/2026;Pau FC;Stade de Reims;Nouste Camp;43.307646;-0.32518;Bizanos
+569;Ligue 2;30;10/04/2026;Rodez Aveyron Football;ESTAC Troyes;Stade Paul-Lignon;44.351606;2.563744;Rodez
+570;Ligue 2;30;10/04/2026;Montpellier Hérault SC;USL Dunkerque;Stade de la Mosson;43.622022;3.81209;Montpellier
+571;Ligue 2;30;10/04/2026;En Avant Guingamp;AC Ajaccio;Stade du Roudourou;48.56602;-3.164459;Guingamp
+572;Ligue 2;30;10/04/2026;Grenoble Foot 38;Amiens SC;Stade des Alpes;45.187395;5.740243;Grenoble
+573;Ligue 2;30;10/04/2026;Red Star FC;Stade Lavallois MFC;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+574;Ligue 2;30;10/04/2026;AS Nancy Lorraine;Le Mans FC;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+575;Ligue 2;30;10/04/2026;FC Annecy;AS Saint-Etienne;Parc des Sports;45.916893;6.119222;Annecy
+576;Ligue 2;30;10/04/2026;Clermont Foot 63;SC Bastia;Stade Gabriel-Montpied;45.815878;3.1215;Clermont-Ferrand
+577;Ligue 2;31;17/04/2026;ESTAC Troyes;Stade de Reims;Stade de l'Aube;48.307517;4.098517;Troyes
+578;Ligue 2;31;17/04/2026;Pau FC;USL Dunkerque;Nouste Camp;43.307646;-0.32518;Bizanos
+579;Ligue 2;31;17/04/2026;Rodez Aveyron Football;AC Ajaccio;Stade Paul-Lignon;44.351606;2.563744;Rodez
+580;Ligue 2;31;17/04/2026;Montpellier Hérault SC;Amiens SC;Stade de la Mosson;43.622022;3.81209;Montpellier
+581;Ligue 2;31;17/04/2026;En Avant Guingamp;Stade Lavallois MFC;Stade du Roudourou;48.56602;-3.164459;Guingamp
+582;Ligue 2;31;17/04/2026;Grenoble Foot 38;Le Mans FC;Stade des Alpes;45.187395;5.740243;Grenoble
+583;Ligue 2;31;17/04/2026;Red Star FC;AS Saint-Etienne;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+584;Ligue 2;31;17/04/2026;AS Nancy Lorraine;SC Bastia;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+585;Ligue 2;31;17/04/2026;FC Annecy;Clermont Foot 63;Parc des Sports;45.916893;6.119222;Annecy
+586;Ligue 2;32;24/04/2026;USL Dunkerque;Stade de Reims;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+587;Ligue 2;32;24/04/2026;ESTAC Troyes;AC Ajaccio;Stade de l'Aube;48.307517;4.098517;Troyes
+588;Ligue 2;32;24/04/2026;Pau FC;Amiens SC;Nouste Camp;43.307646;-0.32518;Bizanos
+589;Ligue 2;32;24/04/2026;Rodez Aveyron Football;Stade Lavallois MFC;Stade Paul-Lignon;44.351606;2.563744;Rodez
+590;Ligue 2;32;24/04/2026;Montpellier Hérault SC;Le Mans FC;Stade de la Mosson;43.622022;3.81209;Montpellier
+591;Ligue 2;32;24/04/2026;En Avant Guingamp;AS Saint-Etienne;Stade du Roudourou;48.56602;-3.164459;Guingamp
+592;Ligue 2;32;24/04/2026;Grenoble Foot 38;SC Bastia;Stade des Alpes;45.187395;5.740243;Grenoble
+593;Ligue 2;32;24/04/2026;Red Star FC;Clermont Foot 63;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+594;Ligue 2;32;24/04/2026;AS Nancy Lorraine;FC Annecy;Stade Marcel-Picot;48.695831;6.210416;Tomblaine
+595;Ligue 2;33;01/05/2026;AC Ajaccio;Stade de Reims;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+596;Ligue 2;33;01/05/2026;USL Dunkerque;Amiens SC;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+597;Ligue 2;33;01/05/2026;ESTAC Troyes;Stade Lavallois MFC;Stade de l'Aube;48.307517;4.098517;Troyes
+598;Ligue 2;33;01/05/2026;Pau FC;Le Mans FC;Nouste Camp;43.307646;-0.32518;Bizanos
+599;Ligue 2;33;01/05/2026;Rodez Aveyron Football;AS Saint-Etienne;Stade Paul-Lignon;44.351606;2.563744;Rodez
+600;Ligue 2;33;01/05/2026;Montpellier Hérault SC;SC Bastia;Stade de la Mosson;43.622022;3.81209;Montpellier
+601;Ligue 2;33;01/05/2026;En Avant Guingamp;Clermont Foot 63;Stade du Roudourou;48.56602;-3.164459;Guingamp
+602;Ligue 2;33;01/05/2026;Grenoble Foot 38;FC Annecy;Stade des Alpes;45.187395;5.740243;Grenoble
+603;Ligue 2;33;01/05/2026;Red Star FC;AS Nancy Lorraine;Stade Bauer;48.906094;2.341155;Saint-Ouen-sur-Seine
+604;Ligue 2;34;08/05/2026;Amiens SC;Stade de Reims;Stade de la Licorne;49.893992;2.263474;Amiens
+605;Ligue 2;34;08/05/2026;AC Ajaccio;Stade Lavallois MFC;Stade François-Coty;41.930830799999995;8.776793;Ajaccio
+606;Ligue 2;34;08/05/2026;USL Dunkerque;Le Mans FC;Stade Marcel-Tribut;51.035265;2.389846;Dunkerque
+607;Ligue 2;34;08/05/2026;ESTAC Troyes;AS Saint-Etienne;Stade de l'Aube;48.307517;4.098517;Troyes
+608;Ligue 2;34;08/05/2026;Pau FC;SC Bastia;Nouste Camp;43.307646;-0.32518;Bizanos
+609;Ligue 2;34;08/05/2026;Rodez Aveyron Football;Clermont Foot 63;Stade Paul-Lignon;44.351606;2.563744;Rodez
+610;Ligue 2;34;08/05/2026;Montpellier Hérault SC;FC Annecy;Stade de la Mosson;43.622022;3.81209;Montpellier
+611;Ligue 2;34;08/05/2026;En Avant Guingamp;AS Nancy Lorraine;Stade du Roudourou;48.56602;-3.164459;Guingamp
+612;Ligue 2;34;08/05/2026;Grenoble Foot 38;Red Star FC;Stade des Alpes;45.187395;5.740243;Grenoble
+613;National 1;1;08/08/2025;LB Châteauroux;Valenciennes FC;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+614;National 1;1;08/08/2025;FBBP01;AC Ajaccio;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+615;National 1;1;08/08/2025;FC Rouen;Fleury 91 FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+616;National 1;1;08/08/2025;Le Puy F. 43 Auv;Sochaux Montb. FC;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+617;National 1;1;08/08/2025;US Orléans;Dijon FCO;Stade de la Source;47.840652;1.941403;Orléans
+618;National 1;1;08/08/2025;Paris 13 Atletico;QRM;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+619;National 1;1;08/08/2025;SM Caen;Aubagne FC;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+620;National 1;1;08/08/2025;Stade Briochin;FC Versailles;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+621;National 1;1;08/08/2025;FC Villefranche B;US Concarneau;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+622;National 1;2;15/08/2025;Aubagne FC;US Concarneau;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+623;National 1;2;15/08/2025;Dijon FCO;Paris 13 Atletico;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+624;National 1;2;15/08/2025;LB Châteauroux;US Orléans;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+625;National 1;2;15/08/2025;Fleury 91 FC;SM Caen;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+626;National 1;2;15/08/2025;Le Puy F. 43 Auv;FBBP01;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+627;National 1;2;15/08/2025;Sochaux Montb. FC;Stade Briochin;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+628;National 1;2;15/08/2025;QRM;AC Ajaccio;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+629;National 1;2;15/08/2025;Valenciennes FC;FC Rouen;Stade du Hainaut;50.348427;3.531746;Valenciennes
+630;National 1;2;15/08/2025;FC Versailles;FC Villefranche B;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+631;National 1;3;22/08/2025;Aubagne FC;FC Versailles;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+632;National 1;3;22/08/2025;AC Ajaccio;Dijon FCO;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+633;National 1;3;22/08/2025;US Concarneau;Fleury 91 FC;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+634;National 1;3;22/08/2025;FBBP01;QRM;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+635;National 1;3;22/08/2025;FC Rouen;US Orléans;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+636;National 1;3;22/08/2025;Paris 13 Atletico;LB Châteauroux;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+637;National 1;3;22/08/2025;SM Caen;Valenciennes FC;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+638;National 1;3;22/08/2025;Stade Briochin;Le Puy F. 43 Auv;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+639;National 1;3;22/08/2025;FC Villefranche B;Sochaux Montb. FC;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+640;National 1;4;29/08/2025;Dijon FCO;QRM;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+641;National 1;4;29/08/2025;LB Châteauroux;AC Ajaccio;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+642;National 1;4;29/08/2025;FC Rouen;Paris 13 Atletico;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+643;National 1;4;29/08/2025;Fleury 91 FC;FC Versailles;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+644;National 1;4;29/08/2025;Le Puy F. 43 Auv;FC Villefranche B;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+645;National 1;4;29/08/2025;US Orléans;SM Caen;Stade de la Source;47.840652;1.941403;Orléans
+646;National 1;4;29/08/2025;Sochaux Montb. FC;Aubagne FC;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+647;National 1;4;29/08/2025;Stade Briochin;FBBP01;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+648;National 1;4;29/08/2025;Valenciennes FC;US Concarneau;Stade du Hainaut;50.348427;3.531746;Valenciennes
+649;National 1;5;05/09/2025;Aubagne FC;Le Puy F. 43 Auv;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+650;National 1;5;05/09/2025;AC Ajaccio;FC Rouen;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+651;National 1;5;05/09/2025;US Concarneau;US Orléans;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+652;National 1;5;05/09/2025;FBBP01;Dijon FCO;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+653;National 1;5;05/09/2025;Fleury 91 FC;Sochaux Montb. FC;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+654;National 1;5;05/09/2025;SM Caen;Paris 13 Atletico;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+655;National 1;5;05/09/2025;QRM;LB Châteauroux;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+656;National 1;5;05/09/2025;FC Versailles;Valenciennes FC;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+657;National 1;5;05/09/2025;FC Villefranche B;Stade Briochin;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+658;National 1;6;12/09/2025;LB Châteauroux;Dijon FCO;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+659;National 1;6;12/09/2025;FC Rouen;QRM;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+660;National 1;6;12/09/2025;Le Puy F. 43 Auv;Fleury 91 FC;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+661;National 1;6;12/09/2025;US Orléans;FC Versailles;Stade de la Source;47.840652;1.941403;Orléans
+662;National 1;6;12/09/2025;Paris 13 Atletico;US Concarneau;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+663;National 1;6;12/09/2025;SM Caen;AC Ajaccio;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+664;National 1;6;12/09/2025;Stade Briochin;Aubagne FC;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+665;National 1;6;12/09/2025;Valenciennes FC;Sochaux Montb. FC;Stade du Hainaut;50.348427;3.531746;Valenciennes
+666;National 1;6;12/09/2025;FC Villefranche B;FBBP01;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+667;National 1;7;19/09/2025;Aubagne FC;FC Villefranche B;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+668;National 1;7;19/09/2025;US Concarneau;AC Ajaccio;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+669;National 1;7;19/09/2025;Dijon FCO;FC Rouen;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+670;National 1;7;19/09/2025;LB Châteauroux;FBBP01;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+671;National 1;7;19/09/2025;Fleury 91 FC;Stade Briochin;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+672;National 1;7;19/09/2025;Sochaux Montb. FC;US Orléans;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+673;National 1;7;19/09/2025;QRM;SM Caen;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+674;National 1;7;19/09/2025;Valenciennes FC;Le Puy F. 43 Auv;Stade du Hainaut;50.348427;3.531746;Valenciennes
+675;National 1;7;19/09/2025;FC Versailles;Paris 13 Atletico;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+676;National 1;8;26/09/2025;AC Ajaccio;FC Versailles;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+677;National 1;8;26/09/2025;US Concarneau;QRM;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+678;National 1;8;26/09/2025;FBBP01;Aubagne FC;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+679;National 1;8;26/09/2025;FC Rouen;LB Châteauroux;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+680;National 1;8;26/09/2025;US Orléans;Le Puy F. 43 Auv;Stade de la Source;47.840652;1.941403;Orléans
+681;National 1;8;26/09/2025;Paris 13 Atletico;Sochaux Montb. FC;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+682;National 1;8;26/09/2025;SM Caen;Dijon FCO;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+683;National 1;8;26/09/2025;Stade Briochin;Valenciennes FC;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+684;National 1;8;26/09/2025;FC Villefranche B;Fleury 91 FC;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+685;National 1;9;03/10/2025;Dijon FCO;US Concarneau;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+686;National 1;9;03/10/2025;LB Châteauroux;SM Caen;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+687;National 1;9;03/10/2025;FC Rouen;FBBP01;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+688;National 1;9;03/10/2025;Fleury 91 FC;Aubagne FC;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+689;National 1;9;03/10/2025;Le Puy F. 43 Auv;Paris 13 Atletico;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+690;National 1;9;03/10/2025;US Orléans;Stade Briochin;Stade de la Source;47.840652;1.941403;Orléans
+691;National 1;9;03/10/2025;Sochaux Montb. FC;AC Ajaccio;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+692;National 1;9;03/10/2025;Valenciennes FC;FC Villefranche B;Stade du Hainaut;50.348427;3.531746;Valenciennes
+693;National 1;9;03/10/2025;FC Versailles;QRM;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+694;National 1;10;17/10/2025;Aubagne FC;Valenciennes FC;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+695;National 1;10;17/10/2025;AC Ajaccio;Le Puy F. 43 Auv;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+696;National 1;10;17/10/2025;US Concarneau;LB Châteauroux;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+697;National 1;10;17/10/2025;FBBP01;Fleury 91 FC;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+698;National 1;10;17/10/2025;Paris 13 Atletico;Stade Briochin;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+699;National 1;10;17/10/2025;SM Caen;FC Rouen;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+700;National 1;10;17/10/2025;QRM;Sochaux Montb. FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+701;National 1;10;17/10/2025;FC Versailles;Dijon FCO;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+702;National 1;10;17/10/2025;FC Villefranche B;US Orléans;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+703;National 1;11;21/10/2025;LB Châteauroux;FC Versailles;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+704;National 1;11;21/10/2025;FC Rouen;US Concarneau;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+705;National 1;11;21/10/2025;Le Puy F. 43 Auv;QRM;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+706;National 1;11;21/10/2025;US Orléans;Aubagne FC;Stade de la Source;47.840652;1.941403;Orléans
+707;National 1;11;21/10/2025;Paris 13 Atletico;FC Villefranche B;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+708;National 1;11;21/10/2025;SM Caen;FBBP01;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+709;National 1;11;21/10/2025;Sochaux Montb. FC;Dijon FCO;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+710;National 1;11;21/10/2025;Stade Briochin;AC Ajaccio;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+711;National 1;11;21/10/2025;Valenciennes FC;Fleury 91 FC;Stade du Hainaut;50.348427;3.531746;Valenciennes
+712;National 1;12;31/10/2025;Aubagne FC;Paris 13 Atletico;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+713;National 1;12;31/10/2025;AC Ajaccio;FC Villefranche B;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+714;National 1;12;31/10/2025;US Concarneau;SM Caen;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+715;National 1;12;31/10/2025;Dijon FCO;Le Puy F. 43 Auv;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+716;National 1;12;31/10/2025;Fleury 91 FC;US Orléans;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+717;National 1;12;31/10/2025;Sochaux Montb. FC;LB Châteauroux;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+718;National 1;12;31/10/2025;QRM;Stade Briochin;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+719;National 1;12;31/10/2025;Valenciennes FC;FBBP01;Stade du Hainaut;50.348427;3.531746;Valenciennes
+720;National 1;12;31/10/2025;FC Versailles;FC Rouen;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+721;National 1;13;07/11/2025;AC Ajaccio;Aubagne FC;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+722;National 1;13;07/11/2025;FBBP01;US Concarneau;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+723;National 1;13;07/11/2025;FC Rouen;Sochaux Montb. FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+724;National 1;13;07/11/2025;Le Puy F. 43 Auv;LB Châteauroux;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+725;National 1;13;07/11/2025;US Orléans;Valenciennes FC;Stade de la Source;47.840652;1.941403;Orléans
+726;National 1;13;07/11/2025;Paris 13 Atletico;Fleury 91 FC;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+727;National 1;13;07/11/2025;SM Caen;FC Versailles;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+728;National 1;13;07/11/2025;Stade Briochin;Dijon FCO;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+729;National 1;13;07/11/2025;FC Villefranche B;QRM;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+730;National 1;14;21/11/2025;Dijon FCO;FC Villefranche B;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+731;National 1;14;21/11/2025;LB Châteauroux;Stade Briochin;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+732;National 1;14;21/11/2025;Fleury 91 FC;AC Ajaccio;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+733;National 1;14;21/11/2025;Le Puy F. 43 Auv;FC Rouen;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+734;National 1;14;21/11/2025;US Orléans;FBBP01;Stade de la Source;47.840652;1.941403;Orléans
+735;National 1;14;21/11/2025;Sochaux Montb. FC;SM Caen;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+736;National 1;14;21/11/2025;QRM;Aubagne FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+737;National 1;14;21/11/2025;Valenciennes FC;Paris 13 Atletico;Stade du Hainaut;50.348427;3.531746;Valenciennes
+738;National 1;14;21/11/2025;FC Versailles;US Concarneau;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+739;National 1;15;05/12/2025;Aubagne FC;Dijon FCO;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+740;National 1;15;05/12/2025;AC Ajaccio;Valenciennes FC;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+741;National 1;15;05/12/2025;US Concarneau;Sochaux Montb. FC;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+742;National 1;15;05/12/2025;FBBP01;FC Versailles;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+743;National 1;15;05/12/2025;Paris 13 Atletico;US Orléans;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+744;National 1;15;05/12/2025;SM Caen;Le Puy F. 43 Auv;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+745;National 1;15;05/12/2025;Stade Briochin;FC Rouen;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+746;National 1;15;05/12/2025;QRM;Fleury 91 FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+747;National 1;15;05/12/2025;FC Villefranche B;LB Châteauroux;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+748;National 1;16;12/12/2025;Dijon FCO;Fleury 91 FC;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+749;National 1;16;12/12/2025;LB Châteauroux;Aubagne FC;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+750;National 1;16;12/12/2025;FC Rouen;FC Villefranche B;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+751;National 1;16;12/12/2025;Le Puy F. 43 Auv;US Concarneau;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+752;National 1;16;12/12/2025;US Orléans;AC Ajaccio;Stade de la Source;47.840652;1.941403;Orléans
+753;National 1;16;12/12/2025;Paris 13 Atletico;FBBP01;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+754;National 1;16;12/12/2025;Sochaux Montb. FC;FC Versailles;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+755;National 1;16;12/12/2025;Stade Briochin;SM Caen;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+756;National 1;16;12/12/2025;Valenciennes FC;QRM;Stade du Hainaut;50.348427;3.531746;Valenciennes
+757;National 1;17;16/01/2026;Aubagne FC;FC Rouen;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+758;National 1;17;16/01/2026;AC Ajaccio;Paris 13 Atletico;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+759;National 1;17;16/01/2026;US Concarneau;Stade Briochin;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+760;National 1;17;16/01/2026;Dijon FCO;Valenciennes FC;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+761;National 1;17;16/01/2026;FBBP01;Sochaux Montb. FC;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+762;National 1;17;16/01/2026;Fleury 91 FC;LB Châteauroux;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+763;National 1;17;16/01/2026;QRM;US Orléans;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+764;National 1;17;16/01/2026;FC Versailles;Le Puy F. 43 Auv;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+765;National 1;17;16/01/2026;FC Villefranche B;SM Caen;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+766;National 1;18;23/01/2026;AC Ajaccio;US Concarneau;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+767;National 1;18;23/01/2026;FBBP01;LB Châteauroux;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+768;National 1;18;23/01/2026;FC Rouen;Dijon FCO;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+769;National 1;18;23/01/2026;Le Puy F. 43 Auv;Valenciennes FC;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+770;National 1;18;23/01/2026;US Orléans;Sochaux Montb. FC;Stade de la Source;47.840652;1.941403;Orléans
+771;National 1;18;23/01/2026;Paris 13 Atletico;FC Versailles;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+772;National 1;18;23/01/2026;SM Caen;QRM;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+773;National 1;18;23/01/2026;Stade Briochin;Fleury 91 FC;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+774;National 1;18;23/01/2026;FC Villefranche B;Aubagne FC;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+775;National 1;19;30/01/2026;Aubagne FC;FBBP01;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+776;National 1;19;30/01/2026;Dijon FCO;SM Caen;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+777;National 1;19;30/01/2026;LB Châteauroux;FC Rouen;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+778;National 1;19;30/01/2026;Fleury 91 FC;FC Villefranche B;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+779;National 1;19;30/01/2026;Le Puy F. 43 Auv;US Orléans;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+780;National 1;19;30/01/2026;Sochaux Montb. FC;Paris 13 Atletico;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+781;National 1;19;30/01/2026;QRM;US Concarneau;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+782;National 1;19;30/01/2026;Valenciennes FC;Stade Briochin;Stade du Hainaut;50.348427;3.531746;Valenciennes
+783;National 1;19;30/01/2026;FC Versailles;AC Ajaccio;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+784;National 1;20;06/02/2026;Aubagne FC;Fleury 91 FC;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+785;National 1;20;06/02/2026;AC Ajaccio;Sochaux Montb. FC;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+786;National 1;20;06/02/2026;US Concarneau;Dijon FCO;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+787;National 1;20;06/02/2026;FBBP01;FC Rouen;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+788;National 1;20;06/02/2026;Paris 13 Atletico;Le Puy F. 43 Auv;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+789;National 1;20;06/02/2026;SM Caen;LB Châteauroux;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+790;National 1;20;06/02/2026;Stade Briochin;US Orléans;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+791;National 1;20;06/02/2026;QRM;FC Versailles;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+792;National 1;20;06/02/2026;FC Villefranche B;Valenciennes FC;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+793;National 1;21;13/02/2026;Dijon FCO;FC Versailles;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+794;National 1;21;13/02/2026;LB Châteauroux;US Concarneau;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+795;National 1;21;13/02/2026;FC Rouen;SM Caen;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+796;National 1;21;13/02/2026;Fleury 91 FC;FBBP01;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+797;National 1;21;13/02/2026;Le Puy F. 43 Auv;AC Ajaccio;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+798;National 1;21;13/02/2026;US Orléans;FC Villefranche B;Stade de la Source;47.840652;1.941403;Orléans
+799;National 1;21;13/02/2026;Sochaux Montb. FC;QRM;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+800;National 1;21;13/02/2026;Stade Briochin;Paris 13 Atletico;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+801;National 1;21;13/02/2026;Valenciennes FC;Aubagne FC;Stade du Hainaut;50.348427;3.531746;Valenciennes
+802;National 1;22;20/02/2026;Aubagne FC;US Orléans;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+803;National 1;22;20/02/2026;AC Ajaccio;Stade Briochin;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+804;National 1;22;20/02/2026;US Concarneau;FC Rouen;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+805;National 1;22;20/02/2026;Dijon FCO;Sochaux Montb. FC;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+806;National 1;22;20/02/2026;FBBP01;SM Caen;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+807;National 1;22;20/02/2026;Fleury 91 FC;Valenciennes FC;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+808;National 1;22;20/02/2026;QRM;Le Puy F. 43 Auv;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+809;National 1;22;20/02/2026;FC Versailles;LB Châteauroux;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+810;National 1;22;20/02/2026;FC Villefranche B;Paris 13 Atletico;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+811;National 1;23;27/02/2026;LB Châteauroux;Sochaux Montb. FC;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+812;National 1;23;27/02/2026;FBBP01;Valenciennes FC;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+813;National 1;23;27/02/2026;FC Rouen;FC Versailles;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+814;National 1;23;27/02/2026;Le Puy F. 43 Auv;Dijon FCO;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+815;National 1;23;27/02/2026;US Orléans;Fleury 91 FC;Stade de la Source;47.840652;1.941403;Orléans
+816;National 1;23;27/02/2026;Paris 13 Atletico;Aubagne FC;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+817;National 1;23;27/02/2026;SM Caen;US Concarneau;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+818;National 1;23;27/02/2026;Stade Briochin;QRM;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+819;National 1;23;27/02/2026;FC Villefranche B;AC Ajaccio;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+820;National 1;24;06/03/2026;Aubagne FC;AC Ajaccio;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+821;National 1;24;06/03/2026;US Concarneau;FBBP01;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+822;National 1;24;06/03/2026;Dijon FCO;Stade Briochin;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+823;National 1;24;06/03/2026;LB Châteauroux;Le Puy F. 43 Auv;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+824;National 1;24;06/03/2026;Fleury 91 FC;Paris 13 Atletico;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+825;National 1;24;06/03/2026;Sochaux Montb. FC;FC Rouen;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+826;National 1;24;06/03/2026;QRM;FC Villefranche B;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+827;National 1;24;06/03/2026;Valenciennes FC;US Orléans;Stade du Hainaut;50.348427;3.531746;Valenciennes
+828;National 1;24;06/03/2026;FC Versailles;SM Caen;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+829;National 1;25;13/03/2026;Aubagne FC;QRM;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+830;National 1;25;13/03/2026;AC Ajaccio;Fleury 91 FC;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+831;National 1;25;13/03/2026;US Concarneau;FC Versailles;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+832;National 1;25;13/03/2026;FBBP01;US Orléans;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+833;National 1;25;13/03/2026;FC Rouen;Le Puy F. 43 Auv;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+834;National 1;25;13/03/2026;Paris 13 Atletico;Valenciennes FC;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+835;National 1;25;13/03/2026;SM Caen;Sochaux Montb. FC;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+836;National 1;25;13/03/2026;Stade Briochin;LB Châteauroux;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+837;National 1;25;13/03/2026;FC Villefranche B;Dijon FCO;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+838;National 1;26;20/03/2026;Dijon FCO;Aubagne FC;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+839;National 1;26;20/03/2026;LB Châteauroux;FC Villefranche B;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+840;National 1;26;20/03/2026;FC Rouen;Stade Briochin;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+841;National 1;26;20/03/2026;Fleury 91 FC;QRM;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+842;National 1;26;20/03/2026;Le Puy F. 43 Auv;SM Caen;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+843;National 1;26;20/03/2026;US Orléans;Paris 13 Atletico;Stade de la Source;47.840652;1.941403;Orléans
+844;National 1;26;20/03/2026;Sochaux Montb. FC;US Concarneau;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+845;National 1;26;20/03/2026;Valenciennes FC;AC Ajaccio;Stade du Hainaut;50.348427;3.531746;Valenciennes
+846;National 1;26;20/03/2026;FC Versailles;FBBP01;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+847;National 1;27;27/03/2026;Aubagne FC;LB Châteauroux;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+848;National 1;27;27/03/2026;AC Ajaccio;US Orléans;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+849;National 1;27;27/03/2026;US Concarneau;Le Puy F. 43 Auv;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+850;National 1;27;27/03/2026;FBBP01;Paris 13 Atletico;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+851;National 1;27;27/03/2026;Fleury 91 FC;Dijon FCO;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+852;National 1;27;27/03/2026;SM Caen;Stade Briochin;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+853;National 1;27;27/03/2026;QRM;Valenciennes FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+854;National 1;27;27/03/2026;FC Versailles;Sochaux Montb. FC;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+855;National 1;27;27/03/2026;FC Villefranche B;FC Rouen;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+856;National 1;28;03/04/2026;LB Châteauroux;Fleury 91 FC;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+857;National 1;28;03/04/2026;FC Rouen;Aubagne FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+858;National 1;28;03/04/2026;Le Puy F. 43 Auv;FC Versailles;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+859;National 1;28;03/04/2026;US Orléans;QRM;Stade de la Source;47.840652;1.941403;Orléans
+860;National 1;28;03/04/2026;Paris 13 Atletico;AC Ajaccio;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+861;National 1;28;03/04/2026;SM Caen;FC Villefranche B;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+862;National 1;28;03/04/2026;Sochaux Montb. FC;FBBP01;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+863;National 1;28;03/04/2026;Stade Briochin;US Concarneau;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+864;National 1;28;03/04/2026;Valenciennes FC;Dijon FCO;Stade du Hainaut;50.348427;3.531746;Valenciennes
+865;National 1;29;10/04/2026;Aubagne FC;SM Caen;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+866;National 1;29;10/04/2026;AC Ajaccio;FBBP01;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+867;National 1;29;10/04/2026;US Concarneau;FC Villefranche B;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+868;National 1;29;10/04/2026;Dijon FCO;US Orléans;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+869;National 1;29;10/04/2026;Fleury 91 FC;FC Rouen;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+870;National 1;29;10/04/2026;Sochaux Montb. FC;Le Puy F. 43 Auv;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+871;National 1;29;10/04/2026;QRM;Paris 13 Atletico;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+872;National 1;29;10/04/2026;Valenciennes FC;LB Châteauroux;Stade du Hainaut;50.348427;3.531746;Valenciennes
+873;National 1;29;10/04/2026;FC Versailles;Stade Briochin;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+874;National 1;30;17/04/2026;AC Ajaccio;QRM;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+875;National 1;30;17/04/2026;US Concarneau;Aubagne FC;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+876;National 1;30;17/04/2026;FBBP01;Le Puy F. 43 Auv;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+877;National 1;30;17/04/2026;FC Rouen;Valenciennes FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+878;National 1;30;17/04/2026;US Orléans;LB Châteauroux;Stade de la Source;47.840652;1.941403;Orléans
+879;National 1;30;17/04/2026;Paris 13 Atletico;Dijon FCO;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+880;National 1;30;17/04/2026;SM Caen;Fleury 91 FC;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+881;National 1;30;17/04/2026;Stade Briochin;Sochaux Montb. FC;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+882;National 1;30;17/04/2026;FC Villefranche B;FC Versailles;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+883;National 1;31;24/04/2026;Dijon FCO;AC Ajaccio;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+884;National 1;31;24/04/2026;LB Châteauroux;Paris 13 Atletico;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+885;National 1;31;24/04/2026;Fleury 91 FC;US Concarneau;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+886;National 1;31;24/04/2026;Le Puy F. 43 Auv;Stade Briochin;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+887;National 1;31;24/04/2026;US Orléans;FC Rouen;Stade de la Source;47.840652;1.941403;Orléans
+888;National 1;31;24/04/2026;Sochaux Montb. FC;FC Villefranche B;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+889;National 1;31;24/04/2026;QRM;FBBP01;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+890;National 1;31;24/04/2026;Valenciennes FC;SM Caen;Stade du Hainaut;50.348427;3.531746;Valenciennes
+891;National 1;31;24/04/2026;FC Versailles;Aubagne FC;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+892;National 1;32;01/05/2026;Aubagne FC;Sochaux Montb. FC;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+893;National 1;32;01/05/2026;AC Ajaccio;LB Châteauroux;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+894;National 1;32;01/05/2026;US Concarneau;Valenciennes FC;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+895;National 1;32;01/05/2026;FBBP01;Dijon FCO;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+896;National 1;32;01/05/2026;Paris 13 Atletico;FC Rouen;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+897;National 1;32;01/05/2026;SM Caen;US Orléans;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+898;National 1;32;01/05/2026;QRM;Fleury 91 FC;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+899;National 1;32;01/05/2026;FC Versailles;Stade Briochin;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+900;National 1;32;01/05/2026;FC Villefranche B;Le Puy F. 43 Auv;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+901;National 1;33;08/05/2026;Dijon FCO;QRM;Stade Gaston Gérard;47.32430825;5.068339451982335;Dijon
+902;National 1;33;08/05/2026;LB Châteauroux;US Concarneau;Stade Gaston Petit;46.802024;1.721484;Châteauroux
+903;National 1;33;08/05/2026;FC Rouen;AC Ajaccio;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+904;National 1;33;08/05/2026;Fleury 91 FC;SM Caen;Stade Auguste Gentelet;48.634018;2.362326;Fleury-Mérogis
+905;National 1;33;08/05/2026;Le Puy F. 43 Auv;Aubagne FC;Stade Charles Massot;45.046535;3.873954;Espaly-Saint-Marcel
+906;National 1;33;08/05/2026;US Orléans;Stade Briochin;Stade de la Source;47.840652;1.941403;Orléans
+907;National 1;33;08/05/2026;Sochaux Montb. FC;Paris 13 Atletico;Stade Auguste Bonal;47.512408;6.811175;Montbéliard
+908;National 1;33;08/05/2026;Valenciennes FC;FC Versailles;Stade du Hainaut;50.348427;3.531746;Valenciennes
+909;National 1;33;08/05/2026;FC Villefranche B;FBBP01;Stade Armand Chouffet;45.999863;4.707246;Villefranche-sur-Saône
+910;National 1;34;15/05/2026;Aubagne FC;FC Villefranche B;Stade de Lattre de Tassigny;43.293751;5.562352;Aubagne
+911;National 1;34;15/05/2026;AC Ajaccio;FC Rouen;Stade François Coty;41.930830799999995;8.776793;Ajaccio
+912;National 1;34;15/05/2026;US Concarneau;Dijon FCO;Stade Guy Piriou;47.889176;-3.913588;Concarneau
+913;National 1;34;15/05/2026;FBBP01;FC Versailles;Stade Marcel-Verchère;46.2100024;5.237150019790997;Bourg-en-Bresse
+914;National 1;34;15/05/2026;Paris 13 Atletico;LB Châteauroux;Stade Charléty;48.819533299999996;2.3457391;Paris 13e
+915;National 1;34;15/05/2026;SM Caen;Valenciennes FC;Stade Michel d'Ornano;49.179492;-0.396953;Caen
+916;National 1;34;15/05/2026;Stade Briochin;Fleury 91 FC;Stade Fred-Aubert;48.509088;-2.744104;Saint-Brieuc
+917;National 1;34;15/05/2026;QRM;US Orléans;Stade Robert Diochon;49.411084;1.070646;Le Petit-Quevilly
+918;National 1;34;15/05/2026;FC Versailles;Le Puy F. 43 Auv;Stade Georges Lefèvre;48.9122561;2.0809644;Saint-Germain-en-Laye
+919;National 2A;1;16/08/2025;Angoulême Charente FC;Dinan Léhon FC;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+920;National 2A;1;16/08/2025;Châteaubriant Volt.;Vendée Les Herbiers Football;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+921;National 2A;1;16/08/2025;OL Saumur FC;Aviron Bayonnais;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+922;National 2A;1;16/08/2025;Girondins Bordeaux;US Avranches MSM;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+923;National 2A;1;16/08/2025;Vendée FC La Roche-sur-Yon;Saint-Colomban Locminé;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+924;National 2A;1;16/08/2025;Poitiers Stade FC;FC Lorient 2;Complexe Michel Amand;46.595568;0.366491;Poitiers
+925;National 2A;1;16/08/2025;US Saint-Malo;FC Montlouis;Stade Marville;48.937245;2.382394;Saint-Malo
+926;National 2A;1;16/08/2025;US Granville;FC Chauray;Stade Louis-Dior;48.836914;-1.575361;Granville
+927;National 2A;2;23/08/2025;US Avranches MSM;Châteaubriant Volt.;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+928;National 2A;2;23/08/2026;Aviron Bayonnais;US Saint-Malo;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+929;National 2A;2;23/08/2027;Dinan Léhon FC;Poitiers Stade FC;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+930;National 2A;2;23/08/2028;Girondins Bordeaux;US Granville;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+931;National 2A;2;23/08/2029;Saint-Colomban Locminé;FC Chauray;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+932;National 2A;2;23/08/2030;FC Montlouis;Angoulême Charente FC;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+933;National 2A;2;23/08/2031;Vendée Les Herbiers Football;OL Saumur FC;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+934;National 2A;2;23/08/2032;FC Lorient 2;Vendée FC La Roche-sur-Yon;Stade du Moustoir;47.748869;-3.369303;Lorient
+935;National 2A;3;30/08/2025;Angoulême Charente FC;Aviron Bayonnais;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+936;National 2A;3;30/08/2026;Châteaubriant Volt.;Girondins Bordeaux;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+937;National 2A;3;30/08/2027;OL Saumur FC;US Avranches MSM;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+938;National 2A;3;30/08/2028;FC Chauray;FC Lorient 2;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+939;National 2A;3;30/08/2029;Vendée FC La Roche-sur-Yon;Dinan Léhon FC;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+940;National 2A;3;30/08/2030;Poitiers Stade FC;FC Montlouis;Complexe Michel Amand;46.595568;0.366491;Poitiers
+941;National 2A;3;30/08/2031;US Saint-Malo;Vendée Les Herbiers Football;Stade Marville;48.937245;2.382394;Saint-Malo
+942;National 2A;3;30/08/2032;US Granville;Saint-Colomban Locminé;Stade Louis-Dior;48.836914;-1.575361;Granville
+943;National 2A;4;06/09/2025;US Avranches MSM;US Saint-Malo;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+944;National 2A;4;06/09/2025;Châteaubriant Volt.;US Granville;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+945;National 2A;4;06/09/2025;Aviron Bayonnais;Poitiers Stade FC;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+946;National 2A;4;06/09/2025;Dinan Léhon FC;FC Chauray;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+947;National 2A;4;06/09/2025;Girondins Bordeaux;OL Saumur FC;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+948;National 2A;4;06/09/2025;FC Montlouis;Vendée FC La Roche-sur-Yon;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+949;National 2A;4;06/09/2025;Vendée Les Herbiers Football;Angoulême Charente FC;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+950;National 2A;4;06/09/2025;FC Lorient 2;Saint-Colomban Locminé;Stade du Moustoir;47.748869;-3.369303;Lorient
+951;National 2A;5;13/09/2025;Angoulême Charente FC;US Avranches MSM;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+952;National 2A;5;13/09/2025;OL Saumur FC;Châteaubriant Volt.;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+953;National 2A;5;13/09/2025;FC Chauray;FC Montlouis;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+954;National 2A;5;13/09/2025;Vendée FC La Roche-sur-Yon;Aviron Bayonnais;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+955;National 2A;5;13/09/2025;Saint-Colomban Locminé;Dinan Léhon FC;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+956;National 2A;5;13/09/2025;Poitiers Stade FC;Vendée Les Herbiers Football;Complexe Michel Amand;46.595568;0.366491;Poitiers
+957;National 2A;5;13/09/2025;US Saint-Malo;Girondins Bordeaux;Stade Marville;48.937245;2.382394;Saint-Malo
+958;National 2A;5;13/09/2025;US Granville;FC Lorient 2;Stade Louis-Dior;48.836914;-1.575361;Granville
+959;National 2A;6;20/09/2025;US Avranches MSM;Poitiers Stade FC;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+960;National 2A;6;20/09/2025;Châteaubriant Volt.;US Saint-Malo;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+961;National 2A;6;20/09/2025;Aviron Bayonnais;FC Chauray;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+962;National 2A;6;20/09/2025;OL Saumur FC;US Granville;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+963;National 2A;6;20/09/2025;Dinan Léhon FC;FC Lorient 2;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+964;National 2A;6;20/09/2025;Girondins Bordeaux;Angoulême Charente FC;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+965;National 2A;6;20/09/2025;FC Montlouis;Saint-Colomban Locminé;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+966;National 2A;6;20/09/2025;Vendée Les Herbiers Football;Vendée FC La Roche-sur-Yon;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+967;National 2A;7;04/10/2025;Angoulême Charente FC;Châteaubriant Volt.;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+968;National 2A;7;04/10/2025;FC Chauray;Vendée Les Herbiers Football;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+969;National 2A;7;04/10/2025;Vendée FC La Roche-sur-Yon;US Avranches MSM;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+970;National 2A;7;04/10/2025;Saint-Colomban Locminé;Aviron Bayonnais;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+971;National 2A;7;04/10/2025;Poitiers Stade FC;Girondins Bordeaux;Complexe Michel Amand;46.595568;0.366491;Poitiers
+972;National 2A;7;04/10/2025;US Saint-Malo;OL Saumur FC;Stade Marville;48.937245;2.382394;Saint-Malo
+973;National 2A;7;04/10/2025;US Granville;Dinan Léhon FC;Stade Louis-Dior;48.836914;-1.575361;Granville
+974;National 2A;7;04/10/2025;FC Lorient 2;FC Montlouis;Stade du Moustoir;47.748869;-3.369303;Lorient
+975;National 2A;8;18/10/2025;US Avranches MSM;FC Chauray;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+976;National 2A;8;18/10/2025;Châteaubriant Volt.;Poitiers Stade FC;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+977;National 2A;8;18/10/2025;Aviron Bayonnais;FC Lorient 2;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+978;National 2A;8;18/10/2025;OL Saumur FC;Angoulême Charente FC;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+979;National 2A;8;18/10/2025;Girondins Bordeaux;Vendée FC La Roche-sur-Yon;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+980;National 2A;8;18/10/2025;FC Montlouis;Dinan Léhon FC;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+981;National 2A;8;18/10/2025;US Saint-Malo;US Granville;Stade Marville;48.937245;2.382394;Saint-Malo
+982;National 2A;8;18/10/2025;Vendée Les Herbiers Football;Saint-Colomban Locminé;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+983;National 2A;9;01/11/2025;Angoulême Charente FC;US Saint-Malo;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+984;National 2A;9;01/11/2025;Dinan Léhon FC;Aviron Bayonnais;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+985;National 2A;9;01/11/2025;FC Chauray;Girondins Bordeaux;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+986;National 2A;9;01/11/2025;Vendée FC La Roche-sur-Yon;Châteaubriant Volt.;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+987;National 2A;9;01/11/2025;Saint-Colomban Locminé;US Avranches MSM;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+988;National 2A;9;01/11/2025;Poitiers Stade FC;OL Saumur FC;Complexe Michel Amand;46.595568;0.366491;Poitiers
+989;National 2A;9;01/11/2025;US Granville;FC Montlouis;Stade Louis-Dior;48.836914;-1.575361;Granville
+990;National 2A;9;01/11/2025;FC Lorient 2;Vendée Les Herbiers Football;Stade du Moustoir;47.748869;-3.369303;Lorient
+991;National 2A;10;08/11/2025;Angoulême Charente FC;US Granville;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+992;National 2A;10;08/11/2025;US Avranches MSM;FC Lorient 2;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+993;National 2A;10;08/11/2025;Châteaubriant Volt.;FC Chauray;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+994;National 2A;10;08/11/2025;Aviron Bayonnais;FC Montlouis;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+995;National 2A;10;08/11/2025;OL Saumur FC;Vendée FC La Roche-sur-Yon;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+996;National 2A;10;08/11/2025;Girondins Bordeaux;Saint-Colomban Locminé;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+997;National 2A;10;08/11/2025;US Saint-Malo;Poitiers Stade FC;Stade Marville;48.937245;2.382394;Saint-Malo
+998;National 2A;10;08/11/2025;Vendée Les Herbiers Football;Dinan Léhon FC;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+999;National 2A;11;22/11/2025;Dinan Léhon FC;US Avranches MSM;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1000;National 2A;11;22/11/2025;FC Chauray;OL Saumur FC;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1001;National 2A;11;22/11/2025;Vendée FC La Roche-sur-Yon;US Saint-Malo;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1002;National 2A;11;22/11/2025;Saint-Colomban Locminé;Châteaubriant Volt.;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1003;National 2A;11;22/11/2025;FC Montlouis;Vendée Les Herbiers Football;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1004;National 2A;11;22/11/2025;Poitiers Stade FC;Angoulême Charente FC;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1005;National 2A;11;22/11/2025;US Granville;Aviron Bayonnais;Stade Louis-Dior;48.836914;-1.575361;Granville
+1006;National 2A;11;22/11/2025;FC Lorient 2;Girondins Bordeaux;Stade du Moustoir;47.748869;-3.369303;Lorient
+1007;National 2A;12;06/12/2025;Angoulême Charente FC;Vendée FC La Roche-sur-Yon;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1008;National 2A;12;06/12/2025;US Avranches MSM;FC Montlouis;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1009;National 2A;12;06/12/2025;Châteaubriant Volt.;FC Lorient 2;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1010;National 2A;12;06/12/2025;OL Saumur FC;Saint-Colomban Locminé;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1011;National 2A;12;06/12/2025;Girondins Bordeaux;Dinan Léhon FC;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1012;National 2A;12;06/12/2025;Poitiers Stade FC;US Granville;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1013;National 2A;12;06/12/2025;US Saint-Malo;FC Chauray;Stade Marville;48.937245;2.382394;Saint-Malo
+1014;National 2A;12;06/12/2025;Vendée Les Herbiers Football;Aviron Bayonnais;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1015;National 2A;13;13/12/2025;Aviron Bayonnais;US Avranches MSM;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1016;National 2A;13;13/12/2025;Dinan Léhon FC;Châteaubriant Volt.;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1017;National 2A;13;13/12/2025;FC Chauray;Angoulême Charente FC;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1018;National 2A;13;13/12/2025;Vendée FC La Roche-sur-Yon;Poitiers Stade FC;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1019;National 2A;13;13/12/2025;Saint-Colomban Locminé;US Saint-Malo;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1020;National 2A;13;13/12/2025;FC Montlouis;Girondins Bordeaux;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1021;National 2A;13;13/12/2025;US Granville;Vendée Les Herbiers Football;Stade Louis-Dior;48.836914;-1.575361;Granville
+1022;National 2A;13;13/12/2025;FC Lorient 2;OL Saumur FC;Stade du Moustoir;47.748869;-3.369303;Lorient
+1023;National 2A;14;10/01/2026;Angoulême Charente FC;Saint-Colomban Locminé;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1024;National 2A;14;10/01/2026;US Avranches MSM;Vendée Les Herbiers Football;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1025;National 2A;14;10/01/2026;Châteaubriant Volt.;FC Montlouis;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1026;National 2A;14;10/01/2026;OL Saumur FC;Dinan Léhon FC;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1027;National 2A;14;10/01/2026;Girondins Bordeaux;Aviron Bayonnais;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1028;National 2A;14;10/01/2026;Vendée FC La Roche-sur-Yon;US Granville;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1029;National 2A;14;10/01/2026;Poitiers Stade FC;FC Chauray;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1030;National 2A;14;10/01/2026;US Saint-Malo;FC Lorient 2;Stade Marville;48.937245;2.382394;Saint-Malo
+1031;National 2A;15;17/01/2026;US Avranches MSM;US Granville;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1032;National 2A;15;17/01/2026;Aviron Bayonnais;Châteaubriant Volt.;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1033;National 2A;15;17/01/2026;Dinan Léhon FC;US Saint-Malo;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1034;National 2A;15;17/01/2026;FC Chauray;Vendée FC La Roche-sur-Yon;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1035;National 2A;15;17/01/2026;Saint-Colomban Locminé;Poitiers Stade FC;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1036;National 2A;15;17/01/2026;FC Montlouis;OL Saumur FC;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1037;National 2A;15;17/01/2026;Vendée Les Herbiers Football;Girondins Bordeaux;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1038;National 2A;15;17/01/2026;FC Lorient 2;Angoulême Charente FC;Stade du Moustoir;47.748869;-3.369303;Lorient
+1039;National 2A;16;24/01/2026;Angoulême Charente FC;FC Montlouis;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1040;National 2A;16;24/01/2026;Châteaubriant Volt.;US Avranches MSM;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1041;National 2A;16;24/01/2026;OL Saumur FC;Vendée Les Herbiers Football;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1042;National 2A;16;24/01/2026;FC Chauray;Saint-Colomban Locminé;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1043;National 2A;16;24/01/2026;Vendée FC La Roche-sur-Yon;FC Lorient 2;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1044;National 2A;16;24/01/2026;Poitiers Stade FC;Dinan Léhon FC;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1045;National 2A;16;24/01/2026;US Saint-Malo;Aviron Bayonnais;Stade Marville;48.937245;2.382394;Saint-Malo
+1046;National 2A;16;24/01/2026;US Granville;Girondins Bordeaux;Stade Louis-Dior;48.836914;-1.575361;Granville
+1047;National 2A;17;07/02/2026;US Avranches MSM;OL Saumur FC;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1048;National 2A;17;07/02/2026;Aviron Bayonnais;Angoulême Charente FC;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1049;National 2A;17;07/02/2026;Dinan Léhon FC;Vendée FC La Roche-sur-Yon;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1050;National 2A;17;07/02/2026;Girondins Bordeaux;Châteaubriant Volt.;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1051;National 2A;17;07/02/2026;Saint-Colomban Locminé;US Granville;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1052;National 2A;17;07/02/2026;FC Montlouis;Poitiers Stade FC;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1053;National 2A;17;07/02/2026;Vendée Les Herbiers Football;US Saint-Malo;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1054;National 2A;17;07/02/2026;FC Lorient 2;FC Chauray;Stade du Moustoir;47.748869;-3.369303;Lorient
+1055;National 2A;18;14/02/2026;Angoulême Charente FC;Vendée Les Herbiers Football;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1056;National 2A;18;14/02/2026;OL Saumur FC;Girondins Bordeaux;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1057;National 2A;18;14/02/2026;FC Chauray;Dinan Léhon FC;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1058;National 2A;18;14/02/2026;Vendée FC La Roche-sur-Yon;FC Montlouis;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1059;National 2A;18;14/02/2026;Saint-Colomban Locminé;FC Lorient 2;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1060;National 2A;18;14/02/2026;Poitiers Stade FC;Aviron Bayonnais;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1061;National 2A;18;14/02/2026;US Saint-Malo;US Avranches MSM;Stade Marville;48.937245;2.382394;Saint-Malo
+1062;National 2A;18;14/02/2026;US Granville;Châteaubriant Volt.;Stade Louis-Dior;48.836914;-1.575361;Granville
+1063;National 2A;19;21/02/2026;US Avranches MSM;Angoulême Charente FC;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1064;National 2A;19;21/02/2026;Châteaubriant Volt.;OL Saumur FC;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1065;National 2A;19;21/02/2026;Aviron Bayonnais;Vendée FC La Roche-sur-Yon;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1066;National 2A;19;21/02/2026;Dinan Léhon FC;Saint-Colomban Locminé;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1067;National 2A;19;21/02/2026;Girondins Bordeaux;US Saint-Malo;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1068;National 2A;19;21/02/2026;FC Montlouis;FC Chauray;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1069;National 2A;19;21/02/2026;Vendée Les Herbiers Football;Poitiers Stade FC;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1070;National 2A;19;21/02/2026;FC Lorient 2;US Granville;Stade du Moustoir;47.748869;-3.369303;Lorient
+1071;National 2A;20;07/03/2026;Angoulême Charente FC;Girondins Bordeaux;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1072;National 2A;20;07/03/2026;FC Chauray;Aviron Bayonnais;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1073;National 2A;20;07/03/2026;Vendée FC La Roche-sur-Yon;Vendée Les Herbiers Football;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1074;National 2A;20;07/03/2026;Saint-Colomban Locminé;FC Montlouis;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1075;National 2A;20;07/03/2026;Poitiers Stade FC;US Avranches MSM;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1076;National 2A;20;07/03/2026;US Saint-Malo;Châteaubriant Volt.;Stade Marville;48.937245;2.382394;Saint-Malo
+1077;National 2A;20;07/03/2026;US Granville;OL Saumur FC;Stade Louis-Dior;48.836914;-1.575361;Granville
+1078;National 2A;20;07/03/2026;FC Lorient 2;Dinan Léhon FC;Stade du Moustoir;47.748869;-3.369303;Lorient
+1079;National 2A;21;14/03/2026;US Avranches MSM;Vendée FC La Roche-sur-Yon;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1080;National 2A;21;14/03/2026;Châteaubriant Volt.;Angoulême Charente FC;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1081;National 2A;21;14/03/2026;Aviron Bayonnais;Saint-Colomban Locminé;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1082;National 2A;21;14/03/2026;OL Saumur FC;US Saint-Malo;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1083;National 2A;21;14/03/2026;Dinan Léhon FC;US Granville;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1084;National 2A;21;14/03/2026;Girondins Bordeaux;Poitiers Stade FC;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1085;National 2A;21;14/03/2026;FC Montlouis;FC Lorient 2;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1086;National 2A;21;14/03/2026;Vendée Les Herbiers Football;FC Chauray;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1087;National 2A;22;21/03/2026;Angoulême Charente FC;OL Saumur FC;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1088;National 2A;22;21/03/2026;Dinan Léhon FC;FC Montlouis;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1089;National 2A;22;21/03/2026;FC Chauray;US Avranches MSM;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1090;National 2A;22;21/03/2026;Vendée FC La Roche-sur-Yon;Girondins Bordeaux;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1091;National 2A;22;21/03/2026;Saint-Colomban Locminé;Vendée Les Herbiers Football;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1092;National 2A;22;21/03/2026;Poitiers Stade FC;Châteaubriant Volt.;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1093;National 2A;22;21/03/2026;US Granville;US Saint-Malo;Stade Louis-Dior;48.836914;-1.575361;Granville
+1094;National 2A;22;21/03/2026;FC Lorient 2;Aviron Bayonnais;Stade du Moustoir;47.748869;-3.369303;Lorient
+1095;National 2A;23;28/03/2026;US Avranches MSM;Saint-Colomban Locminé;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1096;National 2A;23;28/03/2026;Châteaubriant Volt.;Vendée FC La Roche-sur-Yon;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1097;National 2A;23;28/03/2026;Aviron Bayonnais;Dinan Léhon FC;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1098;National 2A;23;28/03/2026;OL Saumur FC;Poitiers Stade FC;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1099;National 2A;23;28/03/2026;Girondins Bordeaux;FC Chauray;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1100;National 2A;23;28/03/2026;FC Montlouis;US Granville;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1101;National 2A;23;28/03/2026;US Saint-Malo;Angoulême Charente FC;Stade Marville;48.937245;2.382394;Saint-Malo
+1102;National 2A;23;28/03/2026;Vendée Les Herbiers Football;FC Lorient 2;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1103;National 2A;24;04/04/2026;Dinan Léhon FC;Vendée Les Herbiers Football;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1104;National 2A;24;04/04/2026;FC Chauray;Châteaubriant Volt.;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1105;National 2A;24;04/04/2026;Vendée FC La Roche-sur-Yon;OL Saumur FC;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1106;National 2A;24;04/04/2026;Saint-Colomban Locminé;Girondins Bordeaux;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1107;National 2A;24;04/04/2026;FC Montlouis;Aviron Bayonnais;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1108;National 2A;24;04/04/2026;Poitiers Stade FC;US Saint-Malo;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1109;National 2A;24;04/04/2026;US Granville;Angoulême Charente FC;Stade Louis-Dior;48.836914;-1.575361;Granville
+1110;National 2A;24;04/04/2026;FC Lorient 2;US Avranches MSM;Stade du Moustoir;47.748869;-3.369303;Lorient
+1111;National 2A;25;11/04/2026;Angoulême Charente FC;Poitiers Stade FC;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1112;National 2A;25;11/04/2026;US Avranches MSM;Dinan Léhon FC;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1113;National 2A;25;11/04/2026;Châteaubriant Volt.;Saint-Colomban Locminé;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1114;National 2A;25;11/04/2026;Aviron Bayonnais;US Granville;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1115;National 2A;25;11/04/2026;OL Saumur FC;FC Chauray;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1116;National 2A;25;11/04/2026;Girondins Bordeaux;FC Lorient 2;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1117;National 2A;25;11/04/2026;US Saint-Malo;Vendée FC La Roche-sur-Yon;Stade Marville;48.937245;2.382394;Saint-Malo
+1118;National 2A;25;11/04/2026;Vendée Les Herbiers Football;FC Montlouis;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1119;National 2A;26;18/04/2026;Aviron Bayonnais;Vendée Les Herbiers Football;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1120;National 2A;26;18/04/2026;Dinan Léhon FC;Girondins Bordeaux;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1121;National 2A;26;18/04/2026;FC Chauray;US Saint-Malo;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1122;National 2A;26;18/04/2026;Vendée FC La Roche-sur-Yon;Angoulême Charente FC;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1123;National 2A;26;18/04/2026;Saint-Colomban Locminé;OL Saumur FC;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1124;National 2A;26;18/04/2026;FC Montlouis;US Avranches MSM;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1125;National 2A;26;18/04/2026;US Granville;Poitiers Stade FC;Stade Louis-Dior;48.836914;-1.575361;Granville
+1126;National 2A;26;18/04/2026;FC Lorient 2;Châteaubriant Volt.;Stade du Moustoir;47.748869;-3.369303;Lorient
+1127;National 2A;27;25/04/2026;Angoulême Charente FC;FC Chauray;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1128;National 2A;27;25/04/2026;US Avranches MSM;Aviron Bayonnais;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1129;National 2A;27;25/04/2026;Châteaubriant Volt.;Dinan Léhon FC;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1130;National 2A;27;25/04/2026;OL Saumur FC;FC Lorient 2;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1131;National 2A;27;25/04/2026;Girondins Bordeaux;FC Montlouis;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1132;National 2A;27;25/04/2026;Poitiers Stade FC;Vendée FC La Roche-sur-Yon;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1133;National 2A;27;25/04/2026;US Saint-Malo;Saint-Colomban Locminé;Stade Marville;48.937245;2.382394;Saint-Malo
+1134;National 2A;27;25/04/2026;Vendée Les Herbiers Football;US Granville;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1135;National 2A;28;02/05/2026;Aviron Bayonnais;Girondins Bordeaux;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1136;National 2A;28;02/05/2026;Dinan Léhon FC;OL Saumur FC;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1137;National 2A;28;02/05/2026;FC Chauray;Poitiers Stade FC;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1138;National 2A;28;02/05/2026;Saint-Colomban Locminé;Angoulême Charente FC;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1139;National 2A;28;02/05/2026;FC Montlouis;Châteaubriant Volt.;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1140;National 2A;28;02/05/2026;US Granville;Vendée FC La Roche-sur-Yon;Stade Louis-Dior;48.836914;-1.575361;Granville
+1141;National 2A;28;02/05/2026;Vendée Les Herbiers Football;US Avranches MSM;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1142;National 2A;28;02/05/2026;FC Lorient 2;US Saint-Malo;Stade du Moustoir;47.748869;-3.369303;Lorient
+1143;National 2A;29;09/05/2026;Angoulême Charente FC;FC Lorient 2;Stade Camille-Lebon;45.6410281;0.17770001754049128;Angoulême
+1144;National 2A;29;09/05/2026;Châteaubriant Volt.;Aviron Bayonnais;Stade de la Ville en Bois / Briotais;47.70444195;-1.383388699999999;Châteaubriant
+1145;National 2A;29;09/05/2026;OL Saumur FC;FC Montlouis;Stade des Rives du Thouet;47.2448482;-0.0810984;Saumur
+1146;National 2A;29;09/05/2026;Girondins Bordeaux;Vendée Les Herbiers Football;Complexe Sportif du Haillan;44.875437500000004;-0.6708793480998616;Le Haillan
+1147;National 2A;29;09/05/2026;Vendée FC La Roche-sur-Yon;FC Chauray;Stade Henri Desgranges;46.67130055;-1.4407155470347168;La Roche-sur-Yon
+1148;National 2A;29;09/05/2026;Poitiers Stade FC;Saint-Colomban Locminé;Complexe Michel Amand;46.595568;0.366491;Poitiers
+1149;National 2A;29;09/05/2026;US Saint-Malo;Dinan Léhon FC;Stade Marville;48.937245;2.382394;Saint-Malo
+1150;National 2A;29;09/05/2026;US Granville;US Avranches MSM;Stade Louis-Dior;48.836914;-1.575361;Granville
+1151;National 2A;30;16/05/2026;US Avranches MSM;Girondins Bordeaux;Stade René Fenouillère;48.68082445;-1.359373965834426;Avranches
+1152;National 2A;30;16/05/2026;Aviron Bayonnais;OL Saumur FC;Stade Didier-Deschamps;43.49508;-1.455806;Bayonne
+1153;National 2A;30;16/05/2026;Dinan Léhon FC;Angoulême Charente FC;Stade du Clos Gastel;48.443661899999995;-2.07001141550751;Léhon
+1154;National 2A;30;16/05/2026;FC Chauray;US Granville;Stade Municipal de Chauray;46.358099505717725;-0.3767665487235522;Chauray
+1155;National 2A;30;16/05/2026;Saint-Colomban Locminé;Vendée FC La Roche-sur-Yon;Stade Municipal du Pigeon Blanc;47.8811422;-2.8303130999999997;Locminé
+1156;National 2A;30;16/05/2026;FC Montlouis;US Saint-Malo;Complexe sportif Eugène Cholet;47.38599715;0.8166991276528486;Montlouis-sur-Loire
+1157;National 2A;30;16/05/2026;Vendée Les Herbiers Football;Châteaubriant Volt.;Complexe Sportif Massabielle;46.878493899999995;-1.0103980229362146;Les Herbiers
+1158;National 2A;30;16/05/2026;FC Lorient 2;Poitiers Stade FC;Stade du Moustoir;47.748869;-3.369303;Lorient
+1159;National 2B;1;16/08/2025;Blois Foot 41;FC Dieppe;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1160;National 2B;1;16/08/2025;ASC Biesheim;AS Beauvais Oise;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1161;National 2B;1;16/08/2025;FC Chambly Oise;US Thionville Lusitanos;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1162;National 2B;1;16/08/2025;US Chantilly;SA Épinal;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1163;National 2B;1;16/08/2025;FC Borgo;Bourges FC;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1164;National 2B;1;16/08/2025;FR Haguenau;ENT. Feignies Aulnoye FC;Parc des Sports;45.916893;6.119222;Haguenau
+1165;National 2B;1;16/08/2025;Saint-Pryvé Saint-Hilaire FC;AS Furiani-Agliani;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1166;National 2B;1;16/08/2025;Wasquehal Football;SR Colmar;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1167;National 2B;2;23/08/2025;AS Beauvais Oise;Saint-Pryvé Saint-Hilaire FC;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1168;National 2B;2;23/08/2025;Bourges FC;FC Chambly Oise;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1169;National 2B;2;23/08/2025;SR Colmar;FR Haguenau;Colmar Stadium;48.087037;7.375947;Colmar
+1170;National 2B;2;23/08/2025;FC Borgo;US Chantilly;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1171;National 2B;2;23/08/2025;FC Dieppe;ASC Biesheim;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1172;National 2B;2;23/08/2025;ENT. Feignies Aulnoye FC;Blois Foot 41;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1173;National 2B;2;23/08/2025;US Thionville Lusitanos;Wasquehal Football;Stade de Guentrange;49.366794;6.141072;Thionville
+1174;National 2B;2;23/08/2025;AS Furiani-Agliani;SA Épinal;Stade Erbajolo;42.662923;9.43599;Furiani
+1175;National 2B;3;30/08/2025;Blois Foot 41;SR Colmar;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1176;National 2B;3;30/08/2025;ASC Biesheim;ENT. Feignies Aulnoye FC;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1177;National 2B;3;30/08/2025;FC Chambly Oise;FC Borgo;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1178;National 2B;3;30/08/2025;US Chantilly;AS Furiani-Agliani;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1179;National 2B;3;30/08/2025;SA Épinal;AS Beauvais Oise;Stade de la Colombière;48.178571;6.4659685;Épinal
+1180;National 2B;3;30/08/2025;FR Haguenau;US Thionville Lusitanos;Parc des Sports;45.916893;6.119222;Haguenau
+1181;National 2B;3;30/08/2025;Saint-Pryvé Saint-Hilaire FC;FC Dieppe;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1182;National 2B;3;30/08/2025;Wasquehal Football;Bourges FC;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1183;National 2B;4;06/09/2025;AS Beauvais Oise;AS Furiani-Agliani;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1184;National 2B;4;06/09/2025;Bourges FC;FR Haguenau;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1185;National 2B;4;06/09/2025;FC Chambly Oise;US Chantilly;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1186;National 2B;4;06/09/2025;SR Colmar;ASC Biesheim;Colmar Stadium;48.087037;7.375947;Colmar
+1187;National 2B;4;06/09/2025;FC Borgo;Wasquehal Football;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1188;National 2B;4;06/09/2025;FC Dieppe;SA Épinal;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1189;National 2B;4;06/09/2025;ENT. Feignies Aulnoye FC;Saint-Pryvé Saint-Hilaire FC;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1190;National 2B;4;06/09/2025;US Thionville Lusitanos;Blois Foot 41;Stade de Guentrange;49.366794;6.141072;Thionville
+1191;National 2B;5;13/09/2025;Blois Foot 41;Bourges FC;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1192;National 2B;5;13/09/2025;ASC Biesheim;US Thionville Lusitanos;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1193;National 2B;5;13/09/2025;US Chantilly;AS Beauvais Oise;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1194;National 2B;5;13/09/2025;SA Épinal;ENT. Feignies Aulnoye FC;Stade de la Colombière;48.178571;6.4659685;Épinal
+1195;National 2B;5;13/09/2025;FR Haguenau;FC Borgo;Parc des Sports;45.916893;6.119222;Haguenau
+1196;National 2B;5;13/09/2025;Saint-Pryvé Saint-Hilaire FC;SR Colmar;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1197;National 2B;5;13/09/2025;AS Furiani-Agliani;FC Dieppe;Stade Erbajolo;42.662923;9.43599;Furiani
+1198;National 2B;5;13/09/2025;Wasquehal Football;FC Chambly Oise;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1199;National 2B;6;20/09/2025;Bourges FC;ASC Biesheim;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1200;National 2B;6;20/09/2025;FC Chambly Oise;FR Haguenau;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1201;National 2B;6;20/09/2025;SR Colmar;SA Épinal;Colmar Stadium;48.087037;7.375947;Colmar
+1202;National 2B;6;20/09/2025;FC Borgo;Blois Foot 41;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1203;National 2B;6;20/09/2025;FC Dieppe;AS Beauvais Oise;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1204;National 2B;6;20/09/2025;ENT. Feignies Aulnoye FC;AS Furiani-Agliani;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1205;National 2B;6;20/09/2025;US Thionville Lusitanos;Saint-Pryvé Saint-Hilaire FC;Stade de Guentrange;49.366794;6.141072;Thionville
+1206;National 2B;6;20/09/2025;Wasquehal Football;US Chantilly;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1207;National 2B;7;04/10/2025;AS Beauvais Oise;ENT. Feignies Aulnoye FC;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1208;National 2B;7;04/10/2025;Blois Foot 41;FC Chambly Oise;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1209;National 2B;7;04/10/2025;ASC Biesheim;FC Borgo;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1210;National 2B;7;04/10/2025;US Chantilly;FC Dieppe;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1211;National 2B;7;04/10/2025;SA Épinal;US Thionville Lusitanos;Stade de la Colombière;48.178571;6.4659685;Épinal
+1212;National 2B;7;04/10/2025;FR Haguenau;Wasquehal Football;Parc des Sports;45.916893;6.119222;Haguenau
+1213;National 2B;7;04/10/2025;Saint-Pryvé Saint-Hilaire FC;Bourges FC;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1214;National 2B;7;04/10/2025;AS Furiani-Agliani;SR Colmar;Stade Erbajolo;42.662923;9.43599;Furiani
+1215;National 2B;8;18/10/2025;Bourges FC;SA Épinal;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1216;National 2B;8;18/10/2025;FC Chambly Oise;ASC Biesheim;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1217;National 2B;8;18/10/2025;SR Colmar;AS Beauvais Oise;Colmar Stadium;48.087037;7.375947;Colmar
+1218;National 2B;8;18/10/2025;FC Borgo;Saint-Pryvé Saint-Hilaire FC;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1219;National 2B;8;18/10/2025;ENT. Feignies Aulnoye FC;FC Dieppe;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1220;National 2B;8;18/10/2025;FR Haguenau;US Chantilly;Parc des Sports;45.916893;6.119222;Haguenau
+1221;National 2B;8;18/10/2025;US Thionville Lusitanos;AS Furiani-Agliani;Stade de Guentrange;49.366794;6.141072;Thionville
+1222;National 2B;8;18/10/2025;Wasquehal Football;Blois Foot 41;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1223;National 2B;9;01/11/2025;AS Beauvais Oise;US Thionville Lusitanos;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1224;National 2B;9;01/11/2025;Blois Foot 41;FR Haguenau;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1225;National 2B;9;01/11/2025;ASC Biesheim;Wasquehal Football;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1226;National 2B;9;01/11/2025;US Chantilly;ENT. Feignies Aulnoye FC;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1227;National 2B;9;01/11/2025;SA Épinal;FC Borgo;Stade de la Colombière;48.178571;6.4659685;Épinal
+1228;National 2B;9;01/11/2025;FC Dieppe;SR Colmar;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1229;National 2B;9;01/11/2025;Saint-Pryvé Saint-Hilaire FC;FC Chambly Oise;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1230;National 2B;9;01/11/2025;AS Furiani-Agliani;Bourges FC;Stade Erbajolo;42.662923;9.43599;Furiani
+1231;National 2B;10;08/11/2025;Blois Foot 41;US Chantilly;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1232;National 2B;10;08/11/2025;Bourges FC;AS Beauvais Oise;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1233;National 2B;10;08/11/2025;FC Chambly Oise;SA Épinal;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1234;National 2B;10;08/11/2025;SR Colmar;ENT. Feignies Aulnoye FC;Colmar Stadium;48.087037;7.375947;Colmar
+1235;National 2B;10;08/11/2025;FC Borgo;AS Furiani-Agliani;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1236;National 2B;10;08/11/2025;FR Haguenau;ASC Biesheim;Parc des Sports;45.916893;6.119222;Haguenau
+1237;National 2B;10;08/11/2025;US Thionville Lusitanos;FC Dieppe;Stade de Guentrange;49.366794;6.141072;Thionville
+1238;National 2B;10;08/11/2025;Wasquehal Football;Saint-Pryvé Saint-Hilaire FC;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1239;National 2B;11;22/11/2025;AS Beauvais Oise;FC Borgo;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1240;National 2B;11;22/11/2025;ASC Biesheim;Blois Foot 41;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1241;National 2B;11;22/11/2025;US Chantilly;SR Colmar;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1242;National 2B;11;22/11/2025;SA Épinal;Wasquehal Football;Stade de la Colombière;48.178571;6.4659685;Épinal
+1243;National 2B;11;22/11/2025;FC Dieppe;Bourges FC;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1244;National 2B;11;22/11/2025;ENT. Feignies Aulnoye FC;US Thionville Lusitanos;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1245;National 2B;11;22/11/2025;Saint-Pryvé Saint-Hilaire FC;FR Haguenau;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1246;National 2B;11;22/11/2025;AS Furiani-Agliani;FC Chambly Oise;Stade Erbajolo;42.662923;9.43599;Furiani
+1247;National 2B;12;06/12/2025;Blois Foot 41;Saint-Pryvé Saint-Hilaire FC;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1248;National 2B;12;06/12/2025;ASC Biesheim;US Chantilly;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1249;National 2B;12;06/12/2025;Bourges FC;ENT. Feignies Aulnoye FC;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1250;National 2B;12;06/12/2025;FC Chambly Oise;AS Beauvais Oise;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1251;National 2B;12;06/12/2025;FC Borgo;FC Dieppe;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1252;National 2B;12;06/12/2025;FR Haguenau;SA Épinal;Parc des Sports;45.916893;6.119222;Haguenau
+1253;National 2B;12;06/12/2025;US Thionville Lusitanos;SR Colmar;Stade de Guentrange;49.366794;6.141072;Thionville
+1254;National 2B;12;06/12/2025;Wasquehal Football;AS Furiani-Agliani;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1255;National 2B;13;13/12/2025;AS Beauvais Oise;Wasquehal Football;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1256;National 2B;13;13/12/2025;US Chantilly;US Thionville Lusitanos;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1257;National 2B;13;13/12/2025;SR Colmar;Bourges FC;Colmar Stadium;48.087037;7.375947;Colmar
+1258;National 2B;13;13/12/2025;SA Épinal;Blois Foot 41;Stade de la Colombière;48.178571;6.4659685;Épinal
+1259;National 2B;13;13/12/2025;FC Dieppe;FC Chambly Oise;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1260;National 2B;13;13/12/2025;ENT. Feignies Aulnoye FC;FC Borgo;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1261;National 2B;13;13/12/2025;Saint-Pryvé Saint-Hilaire FC;ASC Biesheim;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1262;National 2B;13;13/12/2025;AS Furiani-Agliani;FR Haguenau;Stade Erbajolo;42.662923;9.43599;Furiani
+1263;National 2B;14;10/01/2026;Blois Foot 41;AS Furiani-Agliani;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1264;National 2B;14;10/01/2026;ASC Biesheim;SA Épinal;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1265;National 2B;14;10/01/2026;Bourges FC;US Thionville Lusitanos;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1266;National 2B;14;10/01/2026;FC Chambly Oise;ENT. Feignies Aulnoye FC;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1267;National 2B;14;10/01/2026;FC Borgo;SR Colmar;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1268;National 2B;14;10/01/2026;FR Haguenau;AS Beauvais Oise;Parc des Sports;45.916893;6.119222;Haguenau
+1269;National 2B;14;10/01/2026;Saint-Pryvé Saint-Hilaire FC;US Chantilly;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1270;National 2B;14;10/01/2026;Wasquehal Football;FC Dieppe;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1271;National 2B;15;17/01/2026;AS Beauvais Oise;Blois Foot 41;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1272;National 2B;15;17/01/2026;Bourges FC;US Chantilly;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1273;National 2B;15;17/01/2026;SR Colmar;FC Chambly Oise;Colmar Stadium;48.087037;7.375947;Colmar
+1274;National 2B;15;17/01/2026;SA Épinal;Saint-Pryvé Saint-Hilaire FC;Stade de la Colombière;48.178571;6.4659685;Épinal
+1275;National 2B;15;17/01/2026;FC Dieppe;FR Haguenau;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1276;National 2B;15;17/01/2026;ENT. Feignies Aulnoye FC;Wasquehal Football;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1277;National 2B;15;17/01/2026;US Thionville Lusitanos;FC Borgo;Stade de Guentrange;49.366794;6.141072;Thionville
+1278;National 2B;15;17/01/2026;AS Furiani-Agliani;ASC Biesheim;Stade Erbajolo;42.662923;9.43599;Furiani
+1279;National 2B;16;24/01/2026;Blois Foot 41;ENT. Feignies Aulnoye FC;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1280;National 2B;16;24/01/2026;ASC Biesheim;FC Dieppe;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1281;National 2B;16;24/01/2026;FC Chambly Oise;Bourges FC;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1282;National 2B;16;24/01/2026;US Chantilly;FC Borgo;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1283;National 2B;16;24/01/2026;SA Épinal;AS Furiani-Agliani;Stade de la Colombière;48.178571;6.4659685;Épinal
+1284;National 2B;16;24/01/2026;FR Haguenau;SR Colmar;Parc des Sports;45.916893;6.119222;Haguenau
+1285;National 2B;16;24/01/2026;Saint-Pryvé Saint-Hilaire FC;AS Beauvais Oise;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1286;National 2B;16;24/01/2026;Wasquehal Football;US Thionville Lusitanos;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1287;National 2B;17;07/02/2026;AS Beauvais Oise;SA Épinal;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1288;National 2B;17;07/02/2026;Bourges FC;Wasquehal Football;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1289;National 2B;17;07/02/2026;SR Colmar;Blois Foot 41;Colmar Stadium;48.087037;7.375947;Colmar
+1290;National 2B;17;07/02/2026;FC Borgo;FC Chambly Oise;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1291;National 2B;17;07/02/2026;FC Dieppe;Saint-Pryvé Saint-Hilaire FC;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1292;National 2B;17;07/02/2026;ENT. Feignies Aulnoye FC;ASC Biesheim;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1293;National 2B;17;07/02/2026;US Thionville Lusitanos;FR Haguenau;Stade de Guentrange;49.366794;6.141072;Thionville
+1294;National 2B;17;07/02/2026;AS Furiani-Agliani;US Chantilly;Stade Erbajolo;42.662923;9.43599;Furiani
+1295;National 2B;18;14/02/2026;Blois Foot 41;US Thionville Lusitanos;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1296;National 2B;18;14/02/2026;ASC Biesheim;SR Colmar;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1297;National 2B;18;14/02/2026;US Chantilly;FC Chambly Oise;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1298;National 2B;18;14/02/2026;SA Épinal;FC Dieppe;Stade de la Colombière;48.178571;6.4659685;Épinal
+1299;National 2B;18;14/02/2026;FR Haguenau;Bourges FC;Parc des Sports;45.916893;6.119222;Haguenau
+1300;National 2B;18;14/02/2026;Saint-Pryvé Saint-Hilaire FC;ENT. Feignies Aulnoye FC;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1301;National 2B;18;14/02/2026;AS Furiani-Agliani;AS Beauvais Oise;Stade Erbajolo;42.662923;9.43599;Furiani
+1302;National 2B;18;14/02/2026;Wasquehal Football;FC Borgo;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1303;National 2B;19;21/02/2026;AS Beauvais Oise;US Chantilly;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1304;National 2B;19;21/02/2026;Bourges FC;Blois Foot 41;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1305;National 2B;19;21/02/2026;FC Chambly Oise;Wasquehal Football;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1306;National 2B;19;21/02/2026;SR Colmar;Saint-Pryvé Saint-Hilaire FC;Colmar Stadium;48.087037;7.375947;Colmar
+1307;National 2B;19;21/02/2026;FC Borgo;FR Haguenau;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1308;National 2B;19;21/02/2026;FC Dieppe;AS Furiani-Agliani;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1309;National 2B;19;21/02/2026;ENT. Feignies Aulnoye FC;SA Épinal;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1310;National 2B;19;21/02/2026;US Thionville Lusitanos;ASC Biesheim;Stade de Guentrange;49.366794;6.141072;Thionville
+1311;National 2B;20;07/03/2026;AS Beauvais Oise;FC Dieppe;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1312;National 2B;20;07/03/2026;Blois Foot 41;FC Borgo;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1313;National 2B;20;07/03/2026;ASC Biesheim;Bourges FC;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1314;National 2B;20;07/03/2026;US Chantilly;Wasquehal Football;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1315;National 2B;20;07/03/2026;SA Épinal;SR Colmar;Stade de la Colombière;48.178571;6.4659685;Épinal
+1316;National 2B;20;07/03/2026;FR Haguenau;FC Chambly Oise;Parc des Sports;45.916893;6.119222;Haguenau
+1317;National 2B;20;07/03/2026;Saint-Pryvé Saint-Hilaire FC;US Thionville Lusitanos;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1318;National 2B;20;07/03/2026;AS Furiani-Agliani;ENT. Feignies Aulnoye FC;Stade Erbajolo;42.662923;9.43599;Furiani
+1319;National 2B;21;14/03/2026;Bourges FC;Saint-Pryvé Saint-Hilaire FC;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1320;National 2B;21;14/03/2026;FC Chambly Oise;Blois Foot 41;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1321;National 2B;21;14/03/2026;SR Colmar;AS Furiani-Agliani;Colmar Stadium;48.087037;7.375947;Colmar
+1322;National 2B;21;14/03/2026;FC Borgo;ASC Biesheim;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1323;National 2B;21;14/03/2026;FC Dieppe;US Chantilly;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1324;National 2B;21;14/03/2026;ENT. Feignies Aulnoye FC;AS Beauvais Oise;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1325;National 2B;21;14/03/2026;US Thionville Lusitanos;SA Épinal;Stade de Guentrange;49.366794;6.141072;Thionville
+1326;National 2B;21;14/03/2026;Wasquehal Football;FR Haguenau;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1327;National 2B;22;21/03/2026;AS Beauvais Oise;SR Colmar;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1328;National 2B;22;21/03/2026;Blois Foot 41;Wasquehal Football;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1329;National 2B;22;21/03/2026;ASC Biesheim;FC Chambly Oise;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1330;National 2B;22;21/03/2026;US Chantilly;FR Haguenau;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1331;National 2B;22;21/03/2026;SA Épinal;Bourges FC;Stade de la Colombière;48.178571;6.4659685;Épinal
+1332;National 2B;22;21/03/2026;FC Dieppe;ENT. Feignies Aulnoye FC;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1333;National 2B;22;21/03/2026;Saint-Pryvé Saint-Hilaire FC;FC Borgo;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1334;National 2B;22;21/03/2026;AS Furiani-Agliani;US Thionville Lusitanos;Stade Erbajolo;42.662923;9.43599;Furiani
+1335;National 2B;23;28/03/2026;Bourges FC;AS Furiani-Agliani;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1336;National 2B;23;28/03/2026;FC Chambly Oise;Saint-Pryvé Saint-Hilaire FC;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1337;National 2B;23;28/03/2026;SR Colmar;FC Dieppe;Colmar Stadium;48.087037;7.375947;Colmar
+1338;National 2B;23;28/03/2026;FC Borgo;SA Épinal;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1339;National 2B;23;28/03/2026;ENT. Feignies Aulnoye FC;US Chantilly;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1340;National 2B;23;28/03/2026;FR Haguenau;Blois Foot 41;Parc des Sports;45.916893;6.119222;Haguenau
+1341;National 2B;23;28/03/2026;US Thionville Lusitanos;AS Beauvais Oise;Stade de Guentrange;49.366794;6.141072;Thionville
+1342;National 2B;23;28/03/2026;Wasquehal Football;ASC Biesheim;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1343;National 2B;24;04/04/2026;AS Beauvais Oise;Bourges FC;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1344;National 2B;24;04/04/2026;ASC Biesheim;FR Haguenau;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1345;National 2B;24;04/04/2026;US Chantilly;Blois Foot 41;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1346;National 2B;24;04/04/2026;SA Épinal;FC Chambly Oise;Stade de la Colombière;48.178571;6.4659685;Épinal
+1347;National 2B;24;04/04/2026;FC Dieppe;US Thionville Lusitanos;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1348;National 2B;24;04/04/2026;ENT. Feignies Aulnoye FC;SR Colmar;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1349;National 2B;24;04/04/2026;Saint-Pryvé Saint-Hilaire FC;Wasquehal Football;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1350;National 2B;24;04/04/2026;AS Furiani-Agliani;FC Borgo;Stade Erbajolo;42.662923;9.43599;Furiani
+1351;National 2B;25;11/04/2026;Blois Foot 41;ASC Biesheim;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1352;National 2B;25;11/04/2026;Bourges FC;FC Dieppe;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1353;National 2B;25;11/04/2026;FC Chambly Oise;AS Furiani-Agliani;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1354;National 2B;25;11/04/2026;SR Colmar;US Chantilly;Colmar Stadium;48.087037;7.375947;Colmar
+1355;National 2B;25;11/04/2026;FC Borgo;AS Beauvais Oise;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1356;National 2B;25;11/04/2026;FR Haguenau;Saint-Pryvé Saint-Hilaire FC;Parc des Sports;45.916893;6.119222;Haguenau
+1357;National 2B;25;11/04/2026;US Thionville Lusitanos;ENT. Feignies Aulnoye FC;Stade de Guentrange;49.366794;6.141072;Thionville
+1358;National 2B;25;11/04/2026;Wasquehal Football;SA Épinal;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1359;National 2B;26;18/04/2026;AS Beauvais Oise;FC Chambly Oise;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1360;National 2B;26;18/04/2026;US Chantilly;ASC Biesheim;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1361;National 2B;26;18/04/2026;SR Colmar;US Thionville Lusitanos;Colmar Stadium;48.087037;7.375947;Colmar
+1362;National 2B;26;18/04/2026;SA Épinal;FR Haguenau;Stade de la Colombière;48.178571;6.4659685;Épinal
+1363;National 2B;26;18/04/2026;FC Dieppe;FC Borgo;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1364;National 2B;26;18/04/2026;ENT. Feignies Aulnoye FC;Bourges FC;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1365;National 2B;26;18/04/2026;Saint-Pryvé Saint-Hilaire FC;Blois Foot 41;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1366;National 2B;26;18/04/2026;AS Furiani-Agliani;Wasquehal Football;Stade Erbajolo;42.662923;9.43599;Furiani
+1367;National 2B;27;25/04/2026;Blois Foot 41;SA Épinal;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1368;National 2B;27;25/04/2026;ASC Biesheim;Saint-Pryvé Saint-Hilaire FC;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1369;National 2B;27;25/04/2026;Bourges FC;SR Colmar;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1370;National 2B;27;25/04/2026;FC Chambly Oise;FC Dieppe;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1371;National 2B;27;25/04/2026;FC Borgo;ENT. Feignies Aulnoye FC;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1372;National 2B;27;25/04/2026;FR Haguenau;AS Furiani-Agliani;Parc des Sports;45.916893;6.119222;Haguenau
+1373;National 2B;27;25/04/2026;US Thionville Lusitanos;US Chantilly;Stade de Guentrange;49.366794;6.141072;Thionville
+1374;National 2B;27;25/04/2026;Wasquehal Football;AS Beauvais Oise;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1375;National 2B;28;02/05/2026;AS Beauvais Oise;FR Haguenau;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1376;National 2B;28;02/05/2026;US Chantilly;Saint-Pryvé Saint-Hilaire FC;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1377;National 2B;28;02/05/2026;SR Colmar;FC Borgo;Colmar Stadium;48.087037;7.375947;Colmar
+1378;National 2B;28;02/05/2026;SA Épinal;ASC Biesheim;Stade de la Colombière;48.178571;6.4659685;Épinal
+1379;National 2B;28;02/05/2026;FC Dieppe;Wasquehal Football;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1380;National 2B;28;02/05/2026;ENT. Feignies Aulnoye FC;FC Chambly Oise;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1381;National 2B;28;02/05/2026;US Thionville Lusitanos;Bourges FC;Stade de Guentrange;49.366794;6.141072;Thionville
+1382;National 2B;28;02/05/2026;AS Furiani-Agliani;Blois Foot 41;Stade Erbajolo;42.662923;9.43599;Furiani
+1383;National 2B;29;09/05/2026;Blois Foot 41;AS Beauvais Oise;Stade des Allées Jean Leroi;47.579011699999995;1.2981152761479873;Blois
+1384;National 2B;29;09/05/2026;ASC Biesheim;AS Furiani-Agliani;Stade municipal de Biesheim;48.039837649999996;7.5506853198422625;Biesheim
+1385;National 2B;29;09/05/2026;FC Chambly Oise;SR Colmar;Stade Walter-Luzi;49.178098;2.2314450332944373;Chambly
+1386;National 2B;29;09/05/2026;US Chantilly;Bourges FC;Stade des Bourgognes;49.200811;2.471648;Chantilly
+1387;National 2B;29;09/05/2026;FC Borgo;US Thionville Lusitanos;Stade municipal Paul Antoniotti;42.570666149999994;9.448551031078232;Borgo
+1388;National 2B;29;09/05/2026;FR Haguenau;FC Dieppe;Parc des Sports;45.916893;6.119222;Haguenau
+1389;National 2B;29;09/05/2026;Saint-Pryvé Saint-Hilaire FC;SA Épinal;Stade du Grand Clos;49.491764;-1.378836;Saint-Pryvé-Saint-Mesmin
+1390;National 2B;29;09/05/2026;Wasquehal Football;ENT. Feignies Aulnoye FC;Stade Lucien Montagne;50.6751677;3.1214312259633403;Wasquehal
+1391;National 2B;30;16/05/2026;AS Beauvais Oise;ASC Biesheim;Stade Pierre Brisson;49.431567;2.11385;Beauvais
+1392;National 2B;30;16/05/2026;Bourges FC;FC Borgo;Stade Jacques Rimbault;47.116183;2.395402;Bourges
+1393;National 2B;30;16/05/2026;SR Colmar;Wasquehal Football;Colmar Stadium;48.087037;7.375947;Colmar
+1394;National 2B;30;16/05/2026;SA Épinal;US Chantilly;Stade de la Colombière;48.178571;6.4659685;Épinal
+1395;National 2B;30;16/05/2026;FC Dieppe;Blois Foot 41;Stade Jean Dasnias;49.9031017;1.069994;Saint-Aubin-sur-Scie
+1396;National 2B;30;16/05/2026;ENT. Feignies Aulnoye FC;FR Haguenau;Complexe Sportif Didier Eloy;50.293378;3.923845;Feignies
+1397;National 2B;30;16/05/2026;US Thionville Lusitanos;FC Chambly Oise;Stade de Guentrange;49.366794;6.141072;Thionville
+1398;National 2B;30;16/05/2026;AS Furiani-Agliani;Saint-Pryvé Saint-Hilaire FC;Stade Erbajolo;42.662923;9.43599;Furiani
+1399;National 2C;1;16/08/2025;US Créteil-Lusitanos;GFA Rumilly-Vallières;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1400;National 2C;1;16/08/2025;FC93 Bobigny;SC Toulon;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1401;National 2C;1;16/08/2025;FC Rousset Sainte-Victoire Omnisport;Andrézieux-Bouthéon FC;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1402;National 2C;1;16/08/2025;GOAL FC;Istres FC;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1403;National 2C;1;16/08/2025;Nîmes OL;FC LDSD;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1404;National 2C;1;16/08/2025;RC Grasse;ET. FC Fréjus Saint-Raphaël;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1405;National 2C;1;16/08/2025;US Saint-Maur Lusitanos;AS Cannes;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1406;National 2C;1;16/08/2025;AS Saint-Priest;Hyères FC;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1407;National 2C;2;23/08/2025;AS Cannes;Hyères FC;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1408;National 2C;2;23/08/2025;Andrézieux-Bouthéon FC;US Saint-Maur Lusitanos;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1409;National 2C;2;23/08/2025;ET. FC Fréjus Saint-Raphaël;US Créteil-Lusitanos;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1410;National 2C;2;23/08/2025;FC LDSD;GOAL FC;Stade Courtois;49.537567;-1.863327;Limonest
+1411;National 2C;2;23/08/2025;FC93 Bobigny;AS Saint-Priest;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1412;National 2C;2;23/08/2025;GFA Rumilly-Vallières;Nîmes OL;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1413;National 2C;2;23/08/2025;Istres FC;FC Rousset Sainte-Victoire Omnisport;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1414;National 2C;2;23/08/2025;SC Toulon;RC Grasse;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1415;National 2C;3;30/08/2025;US Créteil-Lusitanos;SC Toulon;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1416;National 2C;3;30/08/2025;FC Rousset Sainte-Victoire Omnisport;FC LDSD;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1417;National 2C;3;30/08/2025;GOAL FC;GFA Rumilly-Vallières;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1418;National 2C;3;30/08/2025;Hyères FC;Andrézieux-Bouthéon FC;Stade Perruc;43.120177;6.141842;Hyères
+1419;National 2C;3;30/08/2025;Nîmes OL;ET. FC Fréjus Saint-Raphaël;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1420;National 2C;3;30/08/2025;RC Grasse;FC93 Bobigny;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1421;National 2C;3;30/08/2025;US Saint-Maur Lusitanos;Istres FC;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1422;National 2C;3;30/08/2025;AS Saint-Priest;AS Cannes;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1423;National 2C;4;06/09/2025;Andrézieux-Bouthéon FC;AS Cannes;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1424;National 2C;4;06/09/2025;ET. FC Fréjus Saint-Raphaël;GOAL FC;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1425;National 2C;4;06/09/2025;FC LDSD;US Saint-Maur Lusitanos;Stade Courtois;49.537567;-1.863327;Limonest
+1426;National 2C;4;06/09/2025;FC93 Bobigny;US Créteil-Lusitanos;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1427;National 2C;4;06/09/2025;GFA Rumilly-Vallières;FC Rousset Sainte-Victoire Omnisport;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1428;National 2C;4;06/09/2025;Istres FC;Hyères FC;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1429;National 2C;4;06/09/2025;RC Grasse;AS Saint-Priest;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1430;National 2C;4;06/09/2025;SC Toulon;Nîmes OL;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1431;National 2C;5;13/09/2025;AS Cannes;Istres FC;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1432;National 2C;5;13/09/2025;US Créteil-Lusitanos;RC Grasse;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1433;National 2C;5;13/09/2025;FC Rousset Sainte-Victoire Omnisport;ET. FC Fréjus Saint-Raphaël;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1434;National 2C;5;13/09/2025;GOAL FC;SC Toulon;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1435;National 2C;5;13/09/2025;Hyères FC;FC LDSD;Stade Perruc;43.120177;6.141842;Hyères
+1436;National 2C;5;13/09/2025;Nîmes OL;FC93 Bobigny;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1437;National 2C;5;13/09/2025;US Saint-Maur Lusitanos;GFA Rumilly-Vallières;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1438;National 2C;5;13/09/2025;AS Saint-Priest;Andrézieux-Bouthéon FC;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1439;National 2C;6;20/09/2025;US Créteil-Lusitanos;AS Saint-Priest;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1440;National 2C;6;20/09/2025;ET. FC Fréjus Saint-Raphaël;US Saint-Maur Lusitanos;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1441;National 2C;6;20/09/2025;FC LDSD;AS Cannes;Stade Courtois;49.537567;-1.863327;Limonest
+1442;National 2C;6;20/09/2025;FC93 Bobigny;GOAL FC;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1443;National 2C;6;20/09/2025;GFA Rumilly-Vallières;Hyères FC;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1444;National 2C;6;20/09/2025;Istres FC;Andrézieux-Bouthéon FC;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1445;National 2C;6;20/09/2025;RC Grasse;Nîmes OL;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1446;National 2C;6;20/09/2025;SC Toulon;FC Rousset Sainte-Victoire Omnisport;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1447;National 2C;7;04/10/2025;AS Cannes;GFA Rumilly-Vallières;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1448;National 2C;7;04/10/2025;Andrézieux-Bouthéon FC;FC LDSD;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1449;National 2C;7;04/10/2025;FC Rousset Sainte-Victoire Omnisport;FC93 Bobigny;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1450;National 2C;7;04/10/2025;GOAL FC;RC Grasse;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1451;National 2C;7;04/10/2025;Hyères FC;ET. FC Fréjus Saint-Raphaël;Stade Perruc;43.120177;6.141842;Hyères
+1452;National 2C;7;04/10/2025;Nîmes OL;US Créteil-Lusitanos;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1453;National 2C;7;04/10/2025;US Saint-Maur Lusitanos;SC Toulon;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1454;National 2C;7;04/10/2025;AS Saint-Priest;Istres FC;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1455;National 2C;8;18/10/2025;US Créteil-Lusitanos;GOAL FC;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1456;National 2C;8;18/10/2025;ET. FC Fréjus Saint-Raphaël;AS Cannes;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1457;National 2C;8;18/10/2025;FC LDSD;Istres FC;Stade Courtois;49.537567;-1.863327;Limonest
+1458;National 2C;8;18/10/2025;FC93 Bobigny;US Saint-Maur Lusitanos;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1459;National 2C;8;18/10/2025;GFA Rumilly-Vallières;Andrézieux-Bouthéon FC;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1460;National 2C;8;18/10/2025;Nîmes OL;AS Saint-Priest;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1461;National 2C;8;18/10/2025;RC Grasse;FC Rousset Sainte-Victoire Omnisport;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1462;National 2C;8;18/10/2025;SC Toulon;Hyères FC;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1463;National 2C;9;01/11/2025;AS Cannes;SC Toulon;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1464;National 2C;9;01/11/2025;Andrézieux-Bouthéon FC;ET. FC Fréjus Saint-Raphaël;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1465;National 2C;9;01/11/2025;FC Rousset Sainte-Victoire Omnisport;US Créteil-Lusitanos;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1466;National 2C;9;01/11/2025;GOAL FC;Nîmes OL;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1467;National 2C;9;01/11/2025;Hyères FC;FC93 Bobigny;Stade Perruc;43.120177;6.141842;Hyères
+1468;National 2C;9;01/11/2025;Istres FC;GFA Rumilly-Vallières;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1469;National 2C;9;01/11/2025;US Saint-Maur Lusitanos;RC Grasse;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1470;National 2C;9;01/11/2025;AS Saint-Priest;FC LDSD;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1471;National 2C;10;08/11/2025;US Créteil-Lusitanos;US Saint-Maur Lusitanos;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1472;National 2C;10;08/11/2025;ET. FC Fréjus Saint-Raphaël;Istres FC;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1473;National 2C;10;08/11/2025;FC93 Bobigny;AS Cannes;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1474;National 2C;10;08/11/2025;GFA Rumilly-Vallières;FC LDSD;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1475;National 2C;10;08/11/2025;GOAL FC;AS Saint-Priest;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1476;National 2C;10;08/11/2025;Nîmes OL;FC Rousset Sainte-Victoire Omnisport;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1477;National 2C;10;08/11/2025;RC Grasse;Hyères FC;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1478;National 2C;10;08/11/2025;SC Toulon;Andrézieux-Bouthéon FC;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1479;National 2C;11;22/11/2025;AS Cannes;RC Grasse;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1480;National 2C;11;22/11/2025;Andrézieux-Bouthéon FC;FC93 Bobigny;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1481;National 2C;11;22/11/2025;FC LDSD;ET. FC Fréjus Saint-Raphaël;Stade Courtois;49.537567;-1.863327;Limonest
+1482;National 2C;11;22/11/2025;FC Rousset Sainte-Victoire Omnisport;GOAL FC;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1483;National 2C;11;22/11/2025;Hyères FC;US Créteil-Lusitanos;Stade Perruc;43.120177;6.141842;Hyères
+1484;National 2C;11;22/11/2025;Istres FC;SC Toulon;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1485;National 2C;11;22/11/2025;US Saint-Maur Lusitanos;Nîmes OL;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1486;National 2C;11;22/11/2025;AS Saint-Priest;GFA Rumilly-Vallières;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1487;National 2C;12;06/12/2025;US Créteil-Lusitanos;AS Cannes;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1488;National 2C;12;06/12/2025;ET. FC Fréjus Saint-Raphaël;GFA Rumilly-Vallières;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1489;National 2C;12;06/12/2025;FC93 Bobigny;Istres FC;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1490;National 2C;12;06/12/2025;FC Rousset Sainte-Victoire Omnisport;AS Saint-Priest;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1491;National 2C;12;06/12/2025;GOAL FC;US Saint-Maur Lusitanos;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1492;National 2C;12;06/12/2025;Nîmes OL;Hyères FC;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1493;National 2C;12;06/12/2025;RC Grasse;Andrézieux-Bouthéon FC;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1494;National 2C;12;06/12/2025;SC Toulon;FC LDSD;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1495;National 2C;13;13/12/2025;AS Cannes;Nîmes OL;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1496;National 2C;13;13/12/2025;Andrézieux-Bouthéon FC;US Créteil-Lusitanos;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1497;National 2C;13;13/12/2025;FC LDSD;FC93 Bobigny;Stade Courtois;49.537567;-1.863327;Limonest
+1498;National 2C;13;13/12/2025;GFA Rumilly-Vallières;SC Toulon;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1499;National 2C;13;13/12/2025;Hyères FC;GOAL FC;Stade Perruc;43.120177;6.141842;Hyères
+1500;National 2C;13;13/12/2025;Istres FC;RC Grasse;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1501;National 2C;13;13/12/2025;US Saint-Maur Lusitanos;FC Rousset Sainte-Victoire Omnisport;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1502;National 2C;13;13/12/2025;AS Saint-Priest;ET. FC Fréjus Saint-Raphaël;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1503;National 2C;14;10/01/2026;US Créteil-Lusitanos;Istres FC;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1504;National 2C;14;10/01/2026;FC93 Bobigny;GFA Rumilly-Vallières;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1505;National 2C;14;10/01/2026;FC Rousset Sainte-Victoire Omnisport;Hyères FC;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1506;National 2C;14;10/01/2026;GOAL FC;AS Cannes;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1507;National 2C;14;10/01/2026;Nîmes OL;Andrézieux-Bouthéon FC;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1508;National 2C;14;10/01/2026;RC Grasse;FC LDSD;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1509;National 2C;14;10/01/2026;SC Toulon;ET. FC Fréjus Saint-Raphaël;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1510;National 2C;14;10/01/2026;US Saint-Maur Lusitanos;AS Saint-Priest;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1511;National 2C;15;17/01/2026;AS Cannes;FC Rousset Sainte-Victoire Omnisport;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1512;National 2C;15;17/01/2026;Andrézieux-Bouthéon FC;GOAL FC;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1513;National 2C;15;17/01/2026;ET. FC Fréjus Saint-Raphaël;FC93 Bobigny;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1514;National 2C;15;17/01/2026;FC LDSD;US Créteil-Lusitanos;Stade Courtois;49.537567;-1.863327;Limonest
+1515;National 2C;15;17/01/2026;GFA Rumilly-Vallières;RC Grasse;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1516;National 2C;15;17/01/2026;Hyères FC;US Saint-Maur Lusitanos;Stade Perruc;43.120177;6.141842;Hyères
+1517;National 2C;15;17/01/2026;Istres FC;Nîmes OL;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1518;National 2C;15;17/01/2026;SC Toulon;AS Saint-Priest;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1519;National 2C;16;24/01/2026;US Créteil-Lusitanos;ET. FC Fréjus Saint-Raphaël;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1520;National 2C;16;24/01/2026;FC Rousset Sainte-Victoire Omnisport;Istres FC;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1521;National 2C;16;24/01/2026;GOAL FC;FC LDSD;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1522;National 2C;16;24/01/2026;Hyères FC;AS Cannes;Stade Perruc;43.120177;6.141842;Hyères
+1523;National 2C;16;24/01/2026;Nîmes OL;GFA Rumilly-Vallières;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1524;National 2C;16;24/01/2026;RC Grasse;SC Toulon;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1525;National 2C;16;24/01/2026;US Saint-Maur Lusitanos;Andrézieux-Bouthéon FC;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1526;National 2C;16;24/01/2026;AS Saint-Priest;FC93 Bobigny;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1527;National 2C;17;07/02/2026;AS Cannes;AS Saint-Priest;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1528;National 2C;17;07/02/2026;Andrézieux-Bouthéon FC;Hyères FC;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1529;National 2C;17;07/02/2026;ET. FC Fréjus Saint-Raphaël;Nîmes OL;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1530;National 2C;17;07/02/2026;FC LDSD;FC Rousset Sainte-Victoire Omnisport;Stade Courtois;49.537567;-1.863327;Limonest
+1531;National 2C;17;07/02/2026;FC93 Bobigny;RC Grasse;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1532;National 2C;17;07/02/2026;GFA Rumilly-Vallières;GOAL FC;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1533;National 2C;17;07/02/2026;Istres FC;US Saint-Maur Lusitanos;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1534;National 2C;17;07/02/2026;SC Toulon;US Créteil-Lusitanos;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1535;National 2C;18;14/02/2026;AS Cannes;Andrézieux-Bouthéon FC;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1536;National 2C;18;14/02/2026;US Créteil-Lusitanos;FC93 Bobigny;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1537;National 2C;18;14/02/2026;FC Rousset Sainte-Victoire Omnisport;GFA Rumilly-Vallières;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1538;National 2C;18;14/02/2026;GOAL FC;ET. FC Fréjus Saint-Raphaël;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1539;National 2C;18;14/02/2026;Hyères FC;Istres FC;Stade Perruc;43.120177;6.141842;Hyères
+1540;National 2C;18;14/02/2026;Nîmes OL;SC Toulon;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1541;National 2C;18;14/02/2026;US Saint-Maur Lusitanos;FC LDSD;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1542;National 2C;18;14/02/2026;AS Saint-Priest;RC Grasse;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1543;National 2C;19;21/02/2026;Andrézieux-Bouthéon FC;AS Saint-Priest;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1544;National 2C;19;21/02/2026;ET. FC Fréjus Saint-Raphaël;FC Rousset Sainte-Victoire Omnisport;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1545;National 2C;19;21/02/2026;FC LDSD;Hyères FC;Stade Courtois;49.537567;-1.863327;Limonest
+1546;National 2C;19;21/02/2026;FC93 Bobigny;Nîmes OL;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1547;National 2C;19;21/02/2026;GFA Rumilly-Vallières;US Saint-Maur Lusitanos;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1548;National 2C;19;21/02/2026;Istres FC;AS Cannes;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1549;National 2C;19;21/02/2026;RC Grasse;US Créteil-Lusitanos;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1550;National 2C;19;21/02/2026;SC Toulon;GOAL FC;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1551;National 2C;20;07/03/2026;AS Cannes;FC LDSD;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1552;National 2C;20;07/03/2026;Andrézieux-Bouthéon FC;Istres FC;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1553;National 2C;20;07/03/2026;FC Rousset Sainte-Victoire Omnisport;SC Toulon;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1554;National 2C;20;07/03/2026;GOAL FC;FC93 Bobigny;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1555;National 2C;20;07/03/2026;Hyères FC;GFA Rumilly-Vallières;Stade Perruc;43.120177;6.141842;Hyères
+1556;National 2C;20;07/03/2026;Nîmes OL;RC Grasse;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1557;National 2C;20;07/03/2026;US Saint-Maur Lusitanos;ET. FC Fréjus Saint-Raphaël;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1558;National 2C;20;07/03/2026;AS Saint-Priest;US Créteil-Lusitanos;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1559;National 2C;21;14/03/2026;US Créteil-Lusitanos;Nîmes OL;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1560;National 2C;21;14/03/2026;ET. FC Fréjus Saint-Raphaël;Hyères FC;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1561;National 2C;21;14/03/2026;FC LDSD;Andrézieux-Bouthéon FC;Stade Courtois;49.537567;-1.863327;Limonest
+1562;National 2C;21;14/03/2026;FC93 Bobigny;FC Rousset Sainte-Victoire Omnisport;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1563;National 2C;21;14/03/2026;GFA Rumilly-Vallières;AS Cannes;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1564;National 2C;21;14/03/2026;Istres FC;AS Saint-Priest;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1565;National 2C;21;14/03/2026;RC Grasse;GOAL FC;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1566;National 2C;21;14/03/2026;SC Toulon;US Saint-Maur Lusitanos;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1567;National 2C;22;21/03/2026;AS Cannes;ET. FC Fréjus Saint-Raphaël;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1568;National 2C;22;21/03/2026;Andrézieux-Bouthéon FC;GFA Rumilly-Vallières;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1569;National 2C;22;21/03/2026;FC Rousset Sainte-Victoire Omnisport;RC Grasse;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1570;National 2C;22;21/03/2026;GOAL FC;US Créteil-Lusitanos;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1571;National 2C;22;21/03/2026;Hyères FC;SC Toulon;Stade Perruc;43.120177;6.141842;Hyères
+1572;National 2C;22;21/03/2026;Istres FC;FC LDSD;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1573;National 2C;22;21/03/2026;US Saint-Maur Lusitanos;FC93 Bobigny;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1574;National 2C;22;21/03/2026;AS Saint-Priest;Nîmes OL;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1575;National 2C;23;28/03/2026;US Créteil-Lusitanos;FC Rousset Sainte-Victoire Omnisport;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1576;National 2C;23;28/03/2026;ET. FC Fréjus Saint-Raphaël;Andrézieux-Bouthéon FC;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1577;National 2C;23;28/03/2026;FC LDSD;AS Saint-Priest;Stade Courtois;49.537567;-1.863327;Limonest
+1578;National 2C;23;28/03/2026;FC93 Bobigny;Hyères FC;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1579;National 2C;23;28/03/2026;GFA Rumilly-Vallières;Istres FC;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1580;National 2C;23;28/03/2026;Nîmes OL;GOAL FC;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1581;National 2C;23;28/03/2026;RC Grasse;US Saint-Maur Lusitanos;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1582;National 2C;23;28/03/2026;SC Toulon;AS Cannes;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1583;National 2C;24;04/04/2026;AS Cannes;FC93 Bobigny;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1584;National 2C;24;04/04/2026;Andrézieux-Bouthéon FC;SC Toulon;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1585;National 2C;24;04/04/2026;FC LDSD;GFA Rumilly-Vallières;Stade Courtois;49.537567;-1.863327;Limonest
+1586;National 2C;24;04/04/2026;FC Rousset Sainte-Victoire Omnisport;Nîmes OL;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1587;National 2C;24;04/04/2026;Hyères FC;RC Grasse;Stade Perruc;43.120177;6.141842;Hyères
+1588;National 2C;24;04/04/2026;Istres FC;ET. FC Fréjus Saint-Raphaël;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1589;National 2C;24;04/04/2026;US Saint-Maur Lusitanos;US Créteil-Lusitanos;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1590;National 2C;24;04/04/2026;AS Saint-Priest;GOAL FC;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1591;National 2C;25;11/04/2026;US Créteil-Lusitanos;Hyères FC;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1592;National 2C;25;11/04/2026;ET. FC Fréjus Saint-Raphaël;FC LDSD;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1593;National 2C;25;11/04/2026;FC93 Bobigny;Andrézieux-Bouthéon FC;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1594;National 2C;25;11/04/2026;GFA Rumilly-Vallières;AS Saint-Priest;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1595;National 2C;25;11/04/2026;GOAL FC;FC Rousset Sainte-Victoire Omnisport;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1596;National 2C;25;11/04/2026;Nîmes OL;US Saint-Maur Lusitanos;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1597;National 2C;25;11/04/2026;RC Grasse;AS Cannes;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1598;National 2C;25;11/04/2026;SC Toulon;Istres FC;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1599;National 2C;26;18/04/2026;AS Cannes;US Créteil-Lusitanos;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1600;National 2C;26;18/04/2026;Andrézieux-Bouthéon FC;RC Grasse;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1601;National 2C;26;18/04/2026;FC LDSD;SC Toulon;Stade Courtois;49.537567;-1.863327;Limonest
+1602;National 2C;26;18/04/2026;GFA Rumilly-Vallières;ET. FC Fréjus Saint-Raphaël;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1603;National 2C;26;18/04/2026;Hyères FC;Nîmes OL;Stade Perruc;43.120177;6.141842;Hyères
+1604;National 2C;26;18/04/2026;Istres FC;FC93 Bobigny;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1605;National 2C;26;18/04/2026;US Saint-Maur Lusitanos;GOAL FC;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1606;National 2C;26;18/04/2026;AS Saint-Priest;FC Rousset Sainte-Victoire Omnisport;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1607;National 2C;27;25/04/2026;US Créteil-Lusitanos;Andrézieux-Bouthéon FC;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1608;National 2C;27;25/04/2026;ET. FC Fréjus Saint-Raphaël;AS Saint-Priest;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1609;National 2C;27;25/04/2026;FC93 Bobigny;FC LDSD;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1610;National 2C;27;25/04/2026;FC Rousset Sainte-Victoire Omnisport;US Saint-Maur Lusitanos;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1611;National 2C;27;25/04/2026;GOAL FC;Hyères FC;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1612;National 2C;27;25/04/2026;Nîmes OL;AS Cannes;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1613;National 2C;27;25/04/2026;RC Grasse;Istres FC;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1614;National 2C;27;25/04/2026;SC Toulon;GFA Rumilly-Vallières;Stade Bon Rencontre;43.126158;5.901994;Toulon
+1615;National 2C;28;02/05/2026;AS Cannes;GOAL FC;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1616;National 2C;28;02/05/2026;Andrézieux-Bouthéon FC;Nîmes OL;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1617;National 2C;28;02/05/2026;ET. FC Fréjus Saint-Raphaël;SC Toulon;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1618;National 2C;28;02/05/2026;FC LDSD;RC Grasse;Stade Courtois;49.537567;-1.863327;Limonest
+1619;National 2C;28;02/05/2026;GFA Rumilly-Vallières;FC93 Bobigny;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1620;National 2C;28;02/05/2026;Hyères FC;FC Rousset Sainte-Victoire Omnisport;Stade Perruc;43.120177;6.141842;Hyères
+1621;National 2C;28;02/05/2026;Istres FC;US Créteil-Lusitanos;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1622;National 2C;28;02/05/2026;AS Saint-Priest;US Saint-Maur Lusitanos;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1623;National 2C;29;09/05/2026;US Créteil-Lusitanos;FC LDSD;Stade Dominique Duvauchelle;48.767817;2.461695;Créteil
+1624;National 2C;29;09/05/2026;FC93 Bobigny;ET. FC Fréjus Saint-Raphaël;Stade Auguste Delaune;49.247076;4.024787;Bobigny
+1625;National 2C;29;09/05/2026;FC Rousset Sainte-Victoire Omnisport;AS Cannes;Stade Plaine Sportive;43.476344999999995;5.6236105;Rousset
+1626;National 2C;29;09/05/2026;GOAL FC;Andrézieux-Bouthéon FC;Stade Ludovic Giuly;45.881893;4.770363;Chasselay
+1627;National 2C;29;09/05/2026;Nîmes OL;Istres FC;Stade des Antonins;43.81171020785392; 4.356089632511682;Nîmes
+1628;National 2C;29;09/05/2026;RC Grasse;GFA Rumilly-Vallières;Stade Jean Girard;43.6423429;6.913000700000003;Grasse
+1629;National 2C;29;09/05/2026;US Saint-Maur Lusitanos;Hyères FC;Stade Adolphe-Chéron;48.807014949999996;2.4939915823604055;Saint-Maur-des-Fossés
+1630;National 2C;29;09/05/2026;AS Saint-Priest;SC Toulon;Stade Jacques-Joly;45.696004;4.939231;Saint-Priest
+1631;National 2C;30;16/05/2026;AS Cannes;US Saint-Maur Lusitanos;Stade Pierre de Coubertin;48.835455;2.256463;Cannes
+1632;National 2C;30;16/05/2026;Andrézieux-Bouthéon FC;FC Rousset Sainte-Victoire Omnisport;Stade Envol Stadium;45.523146749999995;4.298723629491661;Andrézieux-Bouthéon
+1633;National 2C;30;16/05/2026;ET. FC Fréjus Saint-Raphaël;RC Grasse;Stade Louis-Hon;43.429823;6.807239;Fréjus
+1634;National 2C;30;16/05/2026;FC LDSD;Nîmes OL;Stade Courtois;49.537567;-1.863327;Limonest
+1635;National 2C;30;16/05/2026;GFA Rumilly-Vallières;US Créteil-Lusitanos;Stade de la Duchère-Balmont;45.7877675;4.7974654999999995;Lyon
+1636;National 2C;30;16/05/2026;Hyères FC;AS Saint-Priest;Stade Perruc;43.120177;6.141842;Hyères
+1637;National 2C;30;16/05/2026;Istres FC;GOAL FC;Stade Parsemain;43.469048;4.949216;Fos-sur-Mer
+1638;National 2C;30;16/05/2026;SC Toulon;FC93 Bobigny;Stade Bon Rencontre;43.126158;5.901994;Toulon

@@ -1,0 +1,11 @@
+categorie,club,stade,ville,latitude,longitude,source
+National 2B,FR Haguenau,Parc des Sports,Haguenau,48.81578,7.78053,aire du Parc des Sports (campercontact.com)
+National 2C,FC93 Bobigny,Stade Auguste Delaune,Bobigny,48.90708,2.46212,20-38 rue Auguste Delaune (Data ES)
+National 2C,FC LDSD,Stade Courtois,Limonest,45.83451,4.77454,parc des sports de Limonest (Data ES)
+National 2A,US Saint-Malo,Stade Marville,Saint-Malo,48.64086,-2.00209,parking de Marville (campercontact.com)
+National 2C,AS Cannes,Stade Pierre de Coubertin,Cannes,43.5530556,6.9646083,Wikipédia
+National 2B,Saint-Pryvé Saint-Hilaire FC,Stade du Grand Clos,Saint-Pryvé-Saint-Mesmin,47.88432,1.87401,Data ES
+National 2C,GFA Rumilly-Vallières,Stade des Grangettes,Rumilly,45.86230,5.95555,Data ES (le géocodage pointait le stade de la Duchère à Lyon)
+National 2A,Girondins Bordeaux,Matmut Atlantique,Bordeaux,44.8972862,-0.5622969,Cirkwi (stade des 15 matchs à domicile selon la FFF)
+National 1,Fleury 91 FC,Essonne Stadium (stade Robert-Bobin),Bondoufle,48.622162,2.393018,Wikipédia (11 matchs à domicile sur 16 selon la FFF)
+Ligue 2,US Boulogne,Stade de la Libération,Boulogne-sur-Mer,50.72440,1.61907,Data ES (club absent des calendriers d'origine)
