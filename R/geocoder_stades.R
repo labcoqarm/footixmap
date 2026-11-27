@@ -97,7 +97,7 @@ geocode_reverse <- function(lonlat, sleep_sec = 1) {
   if (!is.null(json$address$city)) return(json$address$city)
   if (!is.null(json$address$village)) return(json$address$village)
   if (!is.null(json$address$country) && grepl("Monaco", json$address$country, ignore.case = TRUE)) {
-    return("Monaco")  # Monaco n'a pas de "town" ou "city" dans l'API
+    return("Monaco") # Monaco n'a pas de "town" ou "city" dans l'API
   }
   return(NA_character_)
 }
